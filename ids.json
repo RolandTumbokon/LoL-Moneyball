@@ -1,0 +1,5358 @@
+{
+    "logo": {
+        "lolalytics35": {
+            "name": "LoLalytics",
+            "img": "https://cdn5.lolalytics.com/logo/lolalytics35.webp"
+        }
+    },
+    "lang": {
+        "en": {
+            "name": "en",
+            "img": "https://cdn5.lolalytics.com/lang35/en.webp"
+        }
+    },
+    "champx": {
+        "266": {
+            "name": "Aatrox",
+            "img": "https://cdn5.lolalytics.com/champx46/aatrox.webp"
+        },
+        "122": {
+            "name": "Darius",
+            "img": "https://cdn5.lolalytics.com/champx46/darius.webp"
+        },
+        "897": {
+            "name": "K'Sante",
+            "img": "https://cdn5.lolalytics.com/champx46/ksante.webp"
+        },
+        "48": {
+            "name": "Trundle",
+            "img": "https://cdn5.lolalytics.com/champx46/trundle.webp"
+        },
+        "777": {
+            "name": "Yone",
+            "img": "https://cdn5.lolalytics.com/champx46/yone.webp"
+        },
+        "82": {
+            "name": "Mordekaiser",
+            "img": "https://cdn5.lolalytics.com/champx46/mordekaiser.webp"
+        },
+        "92": {
+            "name": "Riven",
+            "img": "https://cdn5.lolalytics.com/champx46/riven.webp"
+        },
+        "24": {
+            "name": "Jax",
+            "img": "https://cdn5.lolalytics.com/champx46/jax.webp"
+        },
+        "86": {
+            "name": "Garen",
+            "img": "https://cdn5.lolalytics.com/champx46/garen.webp"
+        },
+        "114": {
+            "name": "Fiora",
+            "img": "https://cdn5.lolalytics.com/champx46/fiora.webp"
+        },
+        "54": {
+            "name": "Malphite",
+            "img": "https://cdn5.lolalytics.com/champx46/malphite.webp"
+        },
+        "39": {
+            "name": "Irelia",
+            "img": "https://cdn5.lolalytics.com/champx46/irelia.webp"
+        },
+        "887": {
+            "name": "Gwen",
+            "img": "https://cdn5.lolalytics.com/champx46/gwen.webp"
+        },
+        "516": {
+            "name": "Ornn",
+            "img": "https://cdn5.lolalytics.com/champx46/ornn.webp"
+        },
+        "126": {
+            "name": "Jayce",
+            "img": "https://cdn5.lolalytics.com/champx46/jayce.webp"
+        },
+        "14": {
+            "name": "Sion",
+            "img": "https://cdn5.lolalytics.com/champx46/sion.webp"
+        },
+        "17": {
+            "name": "Teemo",
+            "img": "https://cdn5.lolalytics.com/champx46/teemo.webp"
+        },
+        "875": {
+            "name": "Sett",
+            "img": "https://cdn5.lolalytics.com/champx46/sett.webp"
+        },
+        "64": {
+            "name": "Lee Sin",
+            "img": "https://cdn5.lolalytics.com/champx46/leesin.webp"
+        },
+        "63": {
+            "name": "Brand",
+            "img": "https://cdn5.lolalytics.com/champx46/brand.webp"
+        },
+        "104": {
+            "name": "Graves",
+            "img": "https://cdn5.lolalytics.com/champx46/graves.webp"
+        },
+        "876": {
+            "name": "Lillia",
+            "img": "https://cdn5.lolalytics.com/champx46/lillia.webp"
+        },
+        "56": {
+            "name": "Nocturne",
+            "img": "https://cdn5.lolalytics.com/champx46/nocturne.webp"
+        },
+        "141": {
+            "name": "Kayn",
+            "img": "https://cdn5.lolalytics.com/champx46/kayn.webp"
+        },
+        "121": {
+            "name": "Kha'Zix",
+            "img": "https://cdn5.lolalytics.com/champx46/khazix.webp"
+        },
+        "234": {
+            "name": "Viego",
+            "img": "https://cdn5.lolalytics.com/champx46/viego.webp"
+        },
+        "5": {
+            "name": "Xin Zhao",
+            "img": "https://cdn5.lolalytics.com/champx46/xinzhao.webp"
+        },
+        "233": {
+            "name": "Briar",
+            "img": "https://cdn5.lolalytics.com/champx46/briar.webp"
+        },
+        "11": {
+            "name": "Master Yi",
+            "img": "https://cdn5.lolalytics.com/champx46/masteryi.webp"
+        },
+        "107": {
+            "name": "Rengar",
+            "img": "https://cdn5.lolalytics.com/champx46/rengar.webp"
+        },
+        "254": {
+            "name": "Vi",
+            "img": "https://cdn5.lolalytics.com/champx46/vi.webp"
+        },
+        "245": {
+            "name": "Ekko",
+            "img": "https://cdn5.lolalytics.com/champx46/ekko.webp"
+        },
+        "28": {
+            "name": "Evelynn",
+            "img": "https://cdn5.lolalytics.com/champx46/evelynn.webp"
+        },
+        "35": {
+            "name": "Shaco",
+            "img": "https://cdn5.lolalytics.com/champx46/shaco.webp"
+        },
+        "200": {
+            "name": "Bel'Veth",
+            "img": "https://cdn5.lolalytics.com/champx46/belveth.webp"
+        },
+        "154": {
+            "name": "Zac",
+            "img": "https://cdn5.lolalytics.com/champx46/zac.webp"
+        },
+        "4": {
+            "name": "Twisted Fate",
+            "img": "https://cdn5.lolalytics.com/champx46/twistedfate.webp"
+        },
+        "55": {
+            "name": "Katarina",
+            "img": "https://cdn5.lolalytics.com/champx46/katarina.webp"
+        },
+        "157": {
+            "name": "Yasuo",
+            "img": "https://cdn5.lolalytics.com/champx46/yasuo.webp"
+        },
+        "84": {
+            "name": "Akali",
+            "img": "https://cdn5.lolalytics.com/champx46/akali.webp"
+        },
+        "238": {
+            "name": "Zed",
+            "img": "https://cdn5.lolalytics.com/champx46/zed.webp"
+        },
+        "517": {
+            "name": "Sylas",
+            "img": "https://cdn5.lolalytics.com/champx46/sylas.webp"
+        },
+        "268": {
+            "name": "Azir",
+            "img": "https://cdn5.lolalytics.com/champx46/azir.webp"
+        },
+        "910": {
+            "name": "Hwei",
+            "img": "https://cdn5.lolalytics.com/champx46/hwei.webp"
+        },
+        "42": {
+            "name": "Corki",
+            "img": "https://cdn5.lolalytics.com/champx46/corki.webp"
+        },
+        "105": {
+            "name": "Fizz",
+            "img": "https://cdn5.lolalytics.com/champx46/fizz.webp"
+        },
+        "8": {
+            "name": "Vladimir",
+            "img": "https://cdn5.lolalytics.com/champx46/vladimir.webp"
+        },
+        "134": {
+            "name": "Syndra",
+            "img": "https://cdn5.lolalytics.com/champx46/syndra.webp"
+        },
+        "43": {
+            "name": "Karma",
+            "img": "https://cdn5.lolalytics.com/champx46/karma.webp"
+        },
+        "7": {
+            "name": "LeBlanc",
+            "img": "https://cdn5.lolalytics.com/champx46/leblanc.webp"
+        },
+        "103": {
+            "name": "Ahri",
+            "img": "https://cdn5.lolalytics.com/champx46/ahri.webp"
+        },
+        "91": {
+            "name": "Talon",
+            "img": "https://cdn5.lolalytics.com/champx46/talon.webp"
+        },
+        "81": {
+            "name": "Ezreal",
+            "img": "https://cdn5.lolalytics.com/champx46/ezreal.webp"
+        },
+        "202": {
+            "name": "Jhin",
+            "img": "https://cdn5.lolalytics.com/champx46/jhin.webp"
+        },
+        "21": {
+            "name": "Miss Fortune",
+            "img": "https://cdn5.lolalytics.com/champx46/missfortune.webp"
+        },
+        "51": {
+            "name": "Caitlyn",
+            "img": "https://cdn5.lolalytics.com/champx46/caitlyn.webp"
+        },
+        "236": {
+            "name": "Lucian",
+            "img": "https://cdn5.lolalytics.com/champx46/lucian.webp"
+        },
+        "110": {
+            "name": "Varus",
+            "img": "https://cdn5.lolalytics.com/champx46/varus.webp"
+        },
+        "360": {
+            "name": "Samira",
+            "img": "https://cdn5.lolalytics.com/champx46/samira.webp"
+        },
+        "901": {
+            "name": "Smolder",
+            "img": "https://cdn5.lolalytics.com/champx46/smolder.webp"
+        },
+        "145": {
+            "name": "Kai'Sa",
+            "img": "https://cdn5.lolalytics.com/champx46/kaisa.webp"
+        },
+        "67": {
+            "name": "Vayne",
+            "img": "https://cdn5.lolalytics.com/champx46/vayne.webp"
+        },
+        "119": {
+            "name": "Draven",
+            "img": "https://cdn5.lolalytics.com/champx46/draven.webp"
+        },
+        "222": {
+            "name": "Jinx",
+            "img": "https://cdn5.lolalytics.com/champx46/jinx.webp"
+        },
+        "22": {
+            "name": "Ashe",
+            "img": "https://cdn5.lolalytics.com/champx46/ashe.webp"
+        },
+        "523": {
+            "name": "Aphelios",
+            "img": "https://cdn5.lolalytics.com/champx46/aphelios.webp"
+        },
+        "29": {
+            "name": "Twitch",
+            "img": "https://cdn5.lolalytics.com/champx46/twitch.webp"
+        },
+        "498": {
+            "name": "Xayah",
+            "img": "https://cdn5.lolalytics.com/champx46/xayah.webp"
+        },
+        "429": {
+            "name": "Kalista",
+            "img": "https://cdn5.lolalytics.com/champx46/kalista.webp"
+        },
+        "147": {
+            "name": "Seraphine",
+            "img": "https://cdn5.lolalytics.com/champx46/seraphine.webp"
+        },
+        "57": {
+            "name": "Maokai",
+            "img": "https://cdn5.lolalytics.com/champx46/maokai.webp"
+        },
+        "235": {
+            "name": "Senna",
+            "img": "https://cdn5.lolalytics.com/champx46/senna.webp"
+        },
+        "902": {
+            "name": "Milio",
+            "img": "https://cdn5.lolalytics.com/champx46/milio.webp"
+        },
+        "99": {
+            "name": "Lux",
+            "img": "https://cdn5.lolalytics.com/champx46/lux.webp"
+        },
+        "432": {
+            "name": "Bard",
+            "img": "https://cdn5.lolalytics.com/champx46/bard.webp"
+        },
+        "412": {
+            "name": "Thresh",
+            "img": "https://cdn5.lolalytics.com/champx46/thresh.webp"
+        },
+        "267": {
+            "name": "Nami",
+            "img": "https://cdn5.lolalytics.com/champx46/nami.webp"
+        },
+        "53": {
+            "name": "Blitzcrank",
+            "img": "https://cdn5.lolalytics.com/champx46/blitzcrank.webp"
+        },
+        "40": {
+            "name": "Janna",
+            "img": "https://cdn5.lolalytics.com/champx46/janna.webp"
+        },
+        "111": {
+            "name": "Nautilus",
+            "img": "https://cdn5.lolalytics.com/champx46/nautilus.webp"
+        },
+        "497": {
+            "name": "Rakan",
+            "img": "https://cdn5.lolalytics.com/champx46/rakan.webp"
+        },
+        "101": {
+            "name": "Xerath",
+            "img": "https://cdn5.lolalytics.com/champx46/xerath.webp"
+        },
+        "555": {
+            "name": "Pyke",
+            "img": "https://cdn5.lolalytics.com/champx46/pyke.webp"
+        },
+        "89": {
+            "name": "Leona",
+            "img": "https://cdn5.lolalytics.com/champx46/leona.webp"
+        },
+        "117": {
+            "name": "Lulu",
+            "img": "https://cdn5.lolalytics.com/champx46/lulu.webp"
+        },
+        "25": {
+            "name": "Morgana",
+            "img": "https://cdn5.lolalytics.com/champx46/morgana.webp"
+        },
+        "164": {
+            "name": "Camille",
+            "img": "https://cdn5.lolalytics.com/champx46/camille.webp"
+        },
+        "68": {
+            "name": "Rumble",
+            "img": "https://cdn5.lolalytics.com/champx46/rumble.webp"
+        },
+        "120": {
+            "name": "Hecarim",
+            "img": "https://cdn5.lolalytics.com/champx46/hecarim.webp"
+        },
+        "61": {
+            "name": "Orianna",
+            "img": "https://cdn5.lolalytics.com/champx46/orianna.webp"
+        },
+        "143": {
+            "name": "Zyra",
+            "img": "https://cdn5.lolalytics.com/champx46/zyra.webp"
+        },
+        "41": {
+            "name": "Gangplank",
+            "img": "https://cdn5.lolalytics.com/champx46/gangplank.webp"
+        },
+        "127": {
+            "name": "Lissandra",
+            "img": "https://cdn5.lolalytics.com/champx46/lissandra.webp"
+        },
+        "18": {
+            "name": "Tristana",
+            "img": "https://cdn5.lolalytics.com/champx46/tristana.webp"
+        },
+        "77": {
+            "name": "Udyr",
+            "img": "https://cdn5.lolalytics.com/champx46/udyr.webp"
+        },
+        "12": {
+            "name": "Alistar",
+            "img": "https://cdn5.lolalytics.com/champx46/alistar.webp"
+        },
+        "58": {
+            "name": "Renekton",
+            "img": "https://cdn5.lolalytics.com/champx46/renekton.webp"
+        },
+        "79": {
+            "name": "Gragas",
+            "img": "https://cdn5.lolalytics.com/champx46/gragas.webp"
+        },
+        "420": {
+            "name": "Illaoi",
+            "img": "https://cdn5.lolalytics.com/champx46/illaoi.webp"
+        },
+        "98": {
+            "name": "Shen",
+            "img": "https://cdn5.lolalytics.com/champx46/shen.webp"
+        },
+        "895": {
+            "name": "Nilah",
+            "img": "https://cdn5.lolalytics.com/champx46/nilah.webp"
+        },
+        "350": {
+            "name": "Yuumi",
+            "img": "https://cdn5.lolalytics.com/champx46/yuumi.webp"
+        },
+        "59": {
+            "name": "Jarvan IV",
+            "img": "https://cdn5.lolalytics.com/champx46/jarvaniv.webp"
+        },
+        "150": {
+            "name": "Gnar",
+            "img": "https://cdn5.lolalytics.com/champx46/gnar.webp"
+        },
+        "10": {
+            "name": "Kayle",
+            "img": "https://cdn5.lolalytics.com/champx46/kayle.webp"
+        },
+        "90": {
+            "name": "Malzahar",
+            "img": "https://cdn5.lolalytics.com/champx46/malzahar.webp"
+        },
+        "38": {
+            "name": "Kassadin",
+            "img": "https://cdn5.lolalytics.com/champx46/kassadin.webp"
+        },
+        "106": {
+            "name": "Volibear",
+            "img": "https://cdn5.lolalytics.com/champx46/volibear.webp"
+        },
+        "75": {
+            "name": "Nasus",
+            "img": "https://cdn5.lolalytics.com/champx46/nasus.webp"
+        },
+        "223": {
+            "name": "Tahm Kench",
+            "img": "https://cdn5.lolalytics.com/champx46/tahmkench.webp"
+        },
+        "246": {
+            "name": "Qiyana",
+            "img": "https://cdn5.lolalytics.com/champx46/qiyana.webp"
+        },
+        "16": {
+            "name": "Soraka",
+            "img": "https://cdn5.lolalytics.com/champx46/soraka.webp"
+        },
+        "27": {
+            "name": "Singed",
+            "img": "https://cdn5.lolalytics.com/champx46/singed.webp"
+        },
+        "112": {
+            "name": "Viktor",
+            "img": "https://cdn5.lolalytics.com/champx46/viktor.webp"
+        },
+        "6": {
+            "name": "Urgot",
+            "img": "https://cdn5.lolalytics.com/champx46/urgot.webp"
+        },
+        "201": {
+            "name": "Braum",
+            "img": "https://cdn5.lolalytics.com/champx46/braum.webp"
+        },
+        "2": {
+            "name": "Olaf",
+            "img": "https://cdn5.lolalytics.com/champx46/olaf.webp"
+        },
+        "33": {
+            "name": "Rammus",
+            "img": "https://cdn5.lolalytics.com/champx46/rammus.webp"
+        },
+        "23": {
+            "name": "Tryndamere",
+            "img": "https://cdn5.lolalytics.com/champx46/tryndamere.webp"
+        },
+        "3": {
+            "name": "Galio",
+            "img": "https://cdn5.lolalytics.com/champx46/galio.webp"
+        },
+        "15": {
+            "name": "Sivir",
+            "img": "https://cdn5.lolalytics.com/champx46/sivir.webp"
+        },
+        "36": {
+            "name": "Dr. Mundo",
+            "img": "https://cdn5.lolalytics.com/champx46/drmundo.webp"
+        },
+        "37": {
+            "name": "Sona",
+            "img": "https://cdn5.lolalytics.com/champx46/sona.webp"
+        },
+        "131": {
+            "name": "Diana",
+            "img": "https://cdn5.lolalytics.com/champx46/diana.webp"
+        },
+        "526": {
+            "name": "Rell",
+            "img": "https://cdn5.lolalytics.com/champx46/rell.webp"
+        }
+    },
+    "lane": {
+        "top": {
+            "name": "top lane",
+            "img": "https://cdn5.lolalytics.com/lane27/top.webp"
+        },
+        "jungle": {
+            "name": "jungle lane",
+            "img": "https://cdn5.lolalytics.com/lane27/jungle.webp"
+        },
+        "middle": {
+            "name": "middle lane",
+            "img": "https://cdn5.lolalytics.com/lane27/middle.webp"
+        },
+        "bottom": {
+            "name": "bottom lane",
+            "img": "https://cdn5.lolalytics.com/lane27/bottom.webp"
+        },
+        "support": {
+            "name": "support lane",
+            "img": "https://cdn5.lolalytics.com/lane27/support.webp"
+        }
+    },
+    "emblem": {
+        "emerald": {
+            "name": "emerald_plus",
+            "img": "https://cdn5.lolalytics.com/emblem40/emerald.webp"
+        },
+        "grandmaster": {
+            "name": "grandmaster",
+            "img": "https://cdn5.lolalytics.com/emblem40/grandmaster.webp"
+        },
+        "master": {
+            "name": "master",
+            "img": "https://cdn5.lolalytics.com/emblem40/master.webp"
+        },
+        "challenger": {
+            "name": "challenger",
+            "img": "https://cdn5.lolalytics.com/emblem40/challenger.webp"
+        },
+        "diamond": {
+            "name": "diamond",
+            "img": "https://cdn5.lolalytics.com/emblem40/diamond.webp"
+        }
+    },
+    "region": {
+        "all": {
+            "name": "all",
+            "img": "https://cdn5.lolalytics.com/region35/all.webp"
+        },
+        "kr": {
+            "name": "kr",
+            "img": "https://cdn5.lolalytics.com/region35/kr.webp"
+        },
+        "na": {
+            "name": "na",
+            "img": "https://cdn5.lolalytics.com/region35/na.webp"
+        },
+        "br": {
+            "name": "br",
+            "img": "https://cdn5.lolalytics.com/region35/br.webp"
+        },
+        "vn": {
+            "name": "vn",
+            "img": "https://cdn5.lolalytics.com/region35/vn.webp"
+        },
+        "eune": {
+            "name": "eune",
+            "img": "https://cdn5.lolalytics.com/region35/eune.webp"
+        },
+        "euw": {
+            "name": "euw",
+            "img": "https://cdn5.lolalytics.com/region35/euw.webp"
+        },
+        "th": {
+            "name": "th",
+            "img": "https://cdn5.lolalytics.com/region35/th.webp"
+        },
+        "ru": {
+            "name": "ru",
+            "img": "https://cdn5.lolalytics.com/region35/ru.webp"
+        },
+        "lan": {
+            "name": "lan",
+            "img": "https://cdn5.lolalytics.com/region35/lan.webp"
+        },
+        "tr": {
+            "name": "tr",
+            "img": "https://cdn5.lolalytics.com/region35/tr.webp"
+        },
+        "las": {
+            "name": "las",
+            "img": "https://cdn5.lolalytics.com/region35/las.webp"
+        },
+        "tw": {
+            "name": "tw",
+            "img": "https://cdn5.lolalytics.com/region35/tw.webp"
+        },
+        "oce": {
+            "name": "oce",
+            "img": "https://cdn5.lolalytics.com/region35/oce.webp"
+        },
+        "ph": {
+            "name": "ph",
+            "img": "https://cdn5.lolalytics.com/region35/ph.webp"
+        },
+        "jp": {
+            "name": "jp",
+            "img": "https://cdn5.lolalytics.com/region35/jp.webp"
+        },
+        "sg": {
+            "name": "sg",
+            "img": "https://cdn5.lolalytics.com/region35/sg.webp"
+        }
+    },
+    "champ": {
+        "zyra": {
+            "name": "Zyra",
+            "img": "https://cdn5.lolalytics.com/champ140/zyra.webp"
+        },
+        "zoe": {
+            "name": "Zoe",
+            "img": "https://cdn5.lolalytics.com/champ140/zoe.webp"
+        },
+        "zilean": {
+            "name": "Zilean",
+            "img": "https://cdn5.lolalytics.com/champ140/zilean.webp"
+        },
+        "ziggs": {
+            "name": "Ziggs",
+            "img": "https://cdn5.lolalytics.com/champ140/ziggs.webp"
+        },
+        "zed": {
+            "name": "Zed",
+            "img": "https://cdn5.lolalytics.com/champ140/zed.webp"
+        },
+        "zac": {
+            "name": "Zac",
+            "img": "https://cdn5.lolalytics.com/champ140/zac.webp"
+        },
+        "yuumi": {
+            "name": "Yuumi",
+            "img": "https://cdn5.lolalytics.com/champ140/yuumi.webp"
+        },
+        "yorick": {
+            "name": "Yorick",
+            "img": "https://cdn5.lolalytics.com/champ140/yorick.webp"
+        },
+        "yone": {
+            "name": "Yone",
+            "img": "https://cdn5.lolalytics.com/champ140/yone.webp"
+        },
+        "yasuo": {
+            "name": "Yasuo",
+            "img": "https://cdn5.lolalytics.com/champ140/yasuo.webp"
+        },
+        "xinzhao": {
+            "name": "Xin Zhao",
+            "img": "https://cdn5.lolalytics.com/champ140/xinzhao.webp"
+        },
+        "xerath": {
+            "name": "Xerath",
+            "img": "https://cdn5.lolalytics.com/champ140/xerath.webp"
+        },
+        "xayah": {
+            "name": "Xayah",
+            "img": "https://cdn5.lolalytics.com/champ140/xayah.webp"
+        },
+        "wukong": {
+            "name": "Wukong",
+            "img": "https://cdn5.lolalytics.com/champ140/wukong.webp"
+        },
+        "warwick": {
+            "name": "Warwick",
+            "img": "https://cdn5.lolalytics.com/champ140/warwick.webp"
+        },
+        "volibear": {
+            "name": "Volibear",
+            "img": "https://cdn5.lolalytics.com/champ140/volibear.webp"
+        },
+        "vladimir": {
+            "name": "Vladimir",
+            "img": "https://cdn5.lolalytics.com/champ140/vladimir.webp"
+        },
+        "viktor": {
+            "name": "Viktor",
+            "img": "https://cdn5.lolalytics.com/champ140/viktor.webp"
+        },
+        "viego": {
+            "name": "Viego",
+            "img": "https://cdn5.lolalytics.com/champ140/viego.webp"
+        },
+        "vi": {
+            "name": "Vi",
+            "img": "https://cdn5.lolalytics.com/champ140/vi.webp"
+        },
+        "vex": {
+            "name": "Vex",
+            "img": "https://cdn5.lolalytics.com/champ140/vex.webp"
+        },
+        "velkoz": {
+            "name": "Vel'Koz",
+            "img": "https://cdn5.lolalytics.com/champ140/velkoz.webp"
+        },
+        "veigar": {
+            "name": "Veigar",
+            "img": "https://cdn5.lolalytics.com/champ140/veigar.webp"
+        },
+        "vayne": {
+            "name": "Vayne",
+            "img": "https://cdn5.lolalytics.com/champ140/vayne.webp"
+        },
+        "varus": {
+            "name": "Varus",
+            "img": "https://cdn5.lolalytics.com/champ140/varus.webp"
+        },
+        "urgot": {
+            "name": "Urgot",
+            "img": "https://cdn5.lolalytics.com/champ140/urgot.webp"
+        },
+        "udyr": {
+            "name": "Udyr",
+            "img": "https://cdn5.lolalytics.com/champ140/udyr.webp"
+        },
+        "twitch": {
+            "name": "Twitch",
+            "img": "https://cdn5.lolalytics.com/champ140/twitch.webp"
+        },
+        "twistedfate": {
+            "name": "Twisted Fate",
+            "img": "https://cdn5.lolalytics.com/champ140/twistedfate.webp"
+        },
+        "tryndamere": {
+            "name": "Tryndamere",
+            "img": "https://cdn5.lolalytics.com/champ140/tryndamere.webp"
+        },
+        "trundle": {
+            "name": "Trundle",
+            "img": "https://cdn5.lolalytics.com/champ140/trundle.webp"
+        },
+        "tristana": {
+            "name": "Tristana",
+            "img": "https://cdn5.lolalytics.com/champ140/tristana.webp"
+        },
+        "thresh": {
+            "name": "Thresh",
+            "img": "https://cdn5.lolalytics.com/champ140/thresh.webp"
+        },
+        "teemo": {
+            "name": "Teemo",
+            "img": "https://cdn5.lolalytics.com/champ140/teemo.webp"
+        },
+        "taric": {
+            "name": "Taric",
+            "img": "https://cdn5.lolalytics.com/champ140/taric.webp"
+        },
+        "talon": {
+            "name": "Talon",
+            "img": "https://cdn5.lolalytics.com/champ140/talon.webp"
+        },
+        "taliyah": {
+            "name": "Taliyah",
+            "img": "https://cdn5.lolalytics.com/champ140/taliyah.webp"
+        },
+        "tahmkench": {
+            "name": "Tahm Kench",
+            "img": "https://cdn5.lolalytics.com/champ140/tahmkench.webp"
+        },
+        "syndra": {
+            "name": "Syndra",
+            "img": "https://cdn5.lolalytics.com/champ140/syndra.webp"
+        },
+        "sylas": {
+            "name": "Sylas",
+            "img": "https://cdn5.lolalytics.com/champ140/sylas.webp"
+        },
+        "swain": {
+            "name": "Swain",
+            "img": "https://cdn5.lolalytics.com/champ140/swain.webp"
+        },
+        "soraka": {
+            "name": "Soraka",
+            "img": "https://cdn5.lolalytics.com/champ140/soraka.webp"
+        },
+        "sona": {
+            "name": "Sona",
+            "img": "https://cdn5.lolalytics.com/champ140/sona.webp"
+        },
+        "skarner": {
+            "name": "Skarner",
+            "img": "https://cdn5.lolalytics.com/champ140/skarner.webp"
+        },
+        "sivir": {
+            "name": "Sivir",
+            "img": "https://cdn5.lolalytics.com/champ140/sivir.webp"
+        },
+        "sion": {
+            "name": "Sion",
+            "img": "https://cdn5.lolalytics.com/champ140/sion.webp"
+        },
+        "singed": {
+            "name": "Singed",
+            "img": "https://cdn5.lolalytics.com/champ140/singed.webp"
+        },
+        "shyvana": {
+            "name": "Shyvana",
+            "img": "https://cdn5.lolalytics.com/champ140/shyvana.webp"
+        },
+        "shen": {
+            "name": "Shen",
+            "img": "https://cdn5.lolalytics.com/champ140/shen.webp"
+        },
+        "shaco": {
+            "name": "Shaco",
+            "img": "https://cdn5.lolalytics.com/champ140/shaco.webp"
+        },
+        "sett": {
+            "name": "Sett",
+            "img": "https://cdn5.lolalytics.com/champ140/sett.webp"
+        },
+        "seraphine": {
+            "name": "Seraphine",
+            "img": "https://cdn5.lolalytics.com/champ140/seraphine.webp"
+        },
+        "senna": {
+            "name": "Senna",
+            "img": "https://cdn5.lolalytics.com/champ140/senna.webp"
+        },
+        "sejuani": {
+            "name": "Sejuani",
+            "img": "https://cdn5.lolalytics.com/champ140/sejuani.webp"
+        },
+        "samira": {
+            "name": "Samira",
+            "img": "https://cdn5.lolalytics.com/champ140/samira.webp"
+        },
+        "ryze": {
+            "name": "Ryze",
+            "img": "https://cdn5.lolalytics.com/champ140/ryze.webp"
+        },
+        "rumble": {
+            "name": "Rumble",
+            "img": "https://cdn5.lolalytics.com/champ140/rumble.webp"
+        },
+        "riven": {
+            "name": "Riven",
+            "img": "https://cdn5.lolalytics.com/champ140/riven.webp"
+        },
+        "rengar": {
+            "name": "Rengar",
+            "img": "https://cdn5.lolalytics.com/champ140/rengar.webp"
+        },
+        "renekton": {
+            "name": "Renekton",
+            "img": "https://cdn5.lolalytics.com/champ140/renekton.webp"
+        },
+        "renata": {
+            "name": "Renata Glasc",
+            "img": "https://cdn5.lolalytics.com/champ140/renata.webp"
+        },
+        "rell": {
+            "name": "Rell",
+            "img": "https://cdn5.lolalytics.com/champ140/rell.webp"
+        },
+        "reksai": {
+            "name": "Rek'Sai",
+            "img": "https://cdn5.lolalytics.com/champ140/reksai.webp"
+        },
+        "rammus": {
+            "name": "Rammus",
+            "img": "https://cdn5.lolalytics.com/champ140/rammus.webp"
+        },
+        "rakan": {
+            "name": "Rakan",
+            "img": "https://cdn5.lolalytics.com/champ140/rakan.webp"
+        },
+        "quinn": {
+            "name": "Quinn",
+            "img": "https://cdn5.lolalytics.com/champ140/quinn.webp"
+        },
+        "qiyana": {
+            "name": "Qiyana",
+            "img": "https://cdn5.lolalytics.com/champ140/qiyana.webp"
+        },
+        "pyke": {
+            "name": "Pyke",
+            "img": "https://cdn5.lolalytics.com/champ140/pyke.webp"
+        },
+        "poppy": {
+            "name": "Poppy",
+            "img": "https://cdn5.lolalytics.com/champ140/poppy.webp"
+        },
+        "pantheon": {
+            "name": "Pantheon",
+            "img": "https://cdn5.lolalytics.com/champ140/pantheon.webp"
+        },
+        "ornn": {
+            "name": "Ornn",
+            "img": "https://cdn5.lolalytics.com/champ140/ornn.webp"
+        },
+        "orianna": {
+            "name": "Orianna",
+            "img": "https://cdn5.lolalytics.com/champ140/orianna.webp"
+        },
+        "olaf": {
+            "name": "Olaf",
+            "img": "https://cdn5.lolalytics.com/champ140/olaf.webp"
+        },
+        "nunu": {
+            "name": "Nunu",
+            "img": "https://cdn5.lolalytics.com/champ140/nunu.webp"
+        },
+        "nocturne": {
+            "name": "Nocturne",
+            "img": "https://cdn5.lolalytics.com/champ140/nocturne.webp"
+        },
+        "nidalee": {
+            "name": "Nidalee",
+            "img": "https://cdn5.lolalytics.com/champ140/nidalee.webp"
+        },
+        "neeko": {
+            "name": "Neeko",
+            "img": "https://cdn5.lolalytics.com/champ140/neeko.webp"
+        },
+        "nautilus": {
+            "name": "Nautilus",
+            "img": "https://cdn5.lolalytics.com/champ140/nautilus.webp"
+        },
+        "nasus": {
+            "name": "Nasus",
+            "img": "https://cdn5.lolalytics.com/champ140/nasus.webp"
+        },
+        "nami": {
+            "name": "Nami",
+            "img": "https://cdn5.lolalytics.com/champ140/nami.webp"
+        },
+        "morgana": {
+            "name": "Morgana",
+            "img": "https://cdn5.lolalytics.com/champ140/morgana.webp"
+        },
+        "mordekaiser": {
+            "name": "Mordekaiser",
+            "img": "https://cdn5.lolalytics.com/champ140/mordekaiser.webp"
+        },
+        "missfortune": {
+            "name": "Miss Fortune",
+            "img": "https://cdn5.lolalytics.com/champ140/missfortune.webp"
+        },
+        "masteryi": {
+            "name": "Master Yi",
+            "img": "https://cdn5.lolalytics.com/champ140/masteryi.webp"
+        },
+        "maokai": {
+            "name": "Maokai",
+            "img": "https://cdn5.lolalytics.com/champ140/maokai.webp"
+        },
+        "malzahar": {
+            "name": "Malzahar",
+            "img": "https://cdn5.lolalytics.com/champ140/malzahar.webp"
+        },
+        "malphite": {
+            "name": "Malphite",
+            "img": "https://cdn5.lolalytics.com/champ140/malphite.webp"
+        },
+        "lux": {
+            "name": "Lux",
+            "img": "https://cdn5.lolalytics.com/champ140/lux.webp"
+        },
+        "lulu": {
+            "name": "Lulu",
+            "img": "https://cdn5.lolalytics.com/champ140/lulu.webp"
+        },
+        "lucian": {
+            "name": "Lucian",
+            "img": "https://cdn5.lolalytics.com/champ140/lucian.webp"
+        },
+        "lissandra": {
+            "name": "Lissandra",
+            "img": "https://cdn5.lolalytics.com/champ140/lissandra.webp"
+        },
+        "lillia": {
+            "name": "Lillia",
+            "img": "https://cdn5.lolalytics.com/champ140/lillia.webp"
+        },
+        "leona": {
+            "name": "Leona",
+            "img": "https://cdn5.lolalytics.com/champ140/leona.webp"
+        },
+        "leesin": {
+            "name": "Lee Sin",
+            "img": "https://cdn5.lolalytics.com/champ140/leesin.webp"
+        },
+        "leblanc": {
+            "name": "LeBlanc",
+            "img": "https://cdn5.lolalytics.com/champ140/leblanc.webp"
+        },
+        "kogmaw": {
+            "name": "Kog'Maw",
+            "img": "https://cdn5.lolalytics.com/champ140/kogmaw.webp"
+        },
+        "kled": {
+            "name": "Kled",
+            "img": "https://cdn5.lolalytics.com/champ140/kled.webp"
+        },
+        "kindred": {
+            "name": "Kindred",
+            "img": "https://cdn5.lolalytics.com/champ140/kindred.webp"
+        },
+        "khazix": {
+            "name": "Kha'Zix",
+            "img": "https://cdn5.lolalytics.com/champ140/khazix.webp"
+        },
+        "kennen": {
+            "name": "Kennen",
+            "img": "https://cdn5.lolalytics.com/champ140/kennen.webp"
+        },
+        "kayn": {
+            "name": "Kayn",
+            "img": "https://cdn5.lolalytics.com/champ140/kayn.webp"
+        },
+        "kayle": {
+            "name": "Kayle",
+            "img": "https://cdn5.lolalytics.com/champ140/kayle.webp"
+        },
+        "katarina": {
+            "name": "Katarina",
+            "img": "https://cdn5.lolalytics.com/champ140/katarina.webp"
+        },
+        "kassadin": {
+            "name": "Kassadin",
+            "img": "https://cdn5.lolalytics.com/champ140/kassadin.webp"
+        },
+        "karthus": {
+            "name": "Karthus",
+            "img": "https://cdn5.lolalytics.com/champ140/karthus.webp"
+        },
+        "karma": {
+            "name": "Karma",
+            "img": "https://cdn5.lolalytics.com/champ140/karma.webp"
+        },
+        "kalista": {
+            "name": "Kalista",
+            "img": "https://cdn5.lolalytics.com/champ140/kalista.webp"
+        },
+        "kaisa": {
+            "name": "Kai'Sa",
+            "img": "https://cdn5.lolalytics.com/champ140/kaisa.webp"
+        },
+        "jinx": {
+            "name": "Jinx",
+            "img": "https://cdn5.lolalytics.com/champ140/jinx.webp"
+        },
+        "jhin": {
+            "name": "Jhin",
+            "img": "https://cdn5.lolalytics.com/champ140/jhin.webp"
+        },
+        "jayce": {
+            "name": "Jayce",
+            "img": "https://cdn5.lolalytics.com/champ140/jayce.webp"
+        },
+        "jax": {
+            "name": "Jax",
+            "img": "https://cdn5.lolalytics.com/champ140/jax.webp"
+        },
+        "jarvaniv": {
+            "name": "Jarvan IV",
+            "img": "https://cdn5.lolalytics.com/champ140/jarvaniv.webp"
+        },
+        "janna": {
+            "name": "Janna",
+            "img": "https://cdn5.lolalytics.com/champ140/janna.webp"
+        },
+        "ivern": {
+            "name": "Ivern",
+            "img": "https://cdn5.lolalytics.com/champ140/ivern.webp"
+        },
+        "irelia": {
+            "name": "Irelia",
+            "img": "https://cdn5.lolalytics.com/champ140/irelia.webp"
+        },
+        "illaoi": {
+            "name": "Illaoi",
+            "img": "https://cdn5.lolalytics.com/champ140/illaoi.webp"
+        },
+        "heimerdinger": {
+            "name": "Heimerdinger",
+            "img": "https://cdn5.lolalytics.com/champ140/heimerdinger.webp"
+        },
+        "hecarim": {
+            "name": "Hecarim",
+            "img": "https://cdn5.lolalytics.com/champ140/hecarim.webp"
+        },
+        "gwen": {
+            "name": "Gwen",
+            "img": "https://cdn5.lolalytics.com/champ140/gwen.webp"
+        },
+        "graves": {
+            "name": "Graves",
+            "img": "https://cdn5.lolalytics.com/champ140/graves.webp"
+        },
+        "gragas": {
+            "name": "Gragas",
+            "img": "https://cdn5.lolalytics.com/champ140/gragas.webp"
+        },
+        "gnar": {
+            "name": "Gnar",
+            "img": "https://cdn5.lolalytics.com/champ140/gnar.webp"
+        },
+        "garen": {
+            "name": "Garen",
+            "img": "https://cdn5.lolalytics.com/champ140/garen.webp"
+        },
+        "gangplank": {
+            "name": "Gangplank",
+            "img": "https://cdn5.lolalytics.com/champ140/gangplank.webp"
+        },
+        "galio": {
+            "name": "Galio",
+            "img": "https://cdn5.lolalytics.com/champ140/galio.webp"
+        },
+        "fizz": {
+            "name": "Fizz",
+            "img": "https://cdn5.lolalytics.com/champ140/fizz.webp"
+        },
+        "fiora": {
+            "name": "Fiora",
+            "img": "https://cdn5.lolalytics.com/champ140/fiora.webp"
+        },
+        "fiddlesticks": {
+            "name": "Fiddlesticks",
+            "img": "https://cdn5.lolalytics.com/champ140/fiddlesticks.webp"
+        },
+        "ezreal": {
+            "name": "Ezreal",
+            "img": "https://cdn5.lolalytics.com/champ140/ezreal.webp"
+        },
+        "evelynn": {
+            "name": "Evelynn",
+            "img": "https://cdn5.lolalytics.com/champ140/evelynn.webp"
+        },
+        "elise": {
+            "name": "Elise",
+            "img": "https://cdn5.lolalytics.com/champ140/elise.webp"
+        },
+        "ekko": {
+            "name": "Ekko",
+            "img": "https://cdn5.lolalytics.com/champ140/ekko.webp"
+        },
+        "draven": {
+            "name": "Draven",
+            "img": "https://cdn5.lolalytics.com/champ140/draven.webp"
+        },
+        "drmundo": {
+            "name": "Dr. Mundo",
+            "img": "https://cdn5.lolalytics.com/champ140/drmundo.webp"
+        },
+        "diana": {
+            "name": "Diana",
+            "img": "https://cdn5.lolalytics.com/champ140/diana.webp"
+        },
+        "darius": {
+            "name": "Darius",
+            "img": "https://cdn5.lolalytics.com/champ140/darius.webp"
+        },
+        "corki": {
+            "name": "Corki",
+            "img": "https://cdn5.lolalytics.com/champ140/corki.webp"
+        },
+        "chogath": {
+            "name": "Cho'Gath",
+            "img": "https://cdn5.lolalytics.com/champ140/chogath.webp"
+        },
+        "cassiopeia": {
+            "name": "Cassiopeia",
+            "img": "https://cdn5.lolalytics.com/champ140/cassiopeia.webp"
+        },
+        "camille": {
+            "name": "Camille",
+            "img": "https://cdn5.lolalytics.com/champ140/camille.webp"
+        },
+        "caitlyn": {
+            "name": "Caitlyn",
+            "img": "https://cdn5.lolalytics.com/champ140/caitlyn.webp"
+        },
+        "braum": {
+            "name": "Braum",
+            "img": "https://cdn5.lolalytics.com/champ140/braum.webp"
+        },
+        "brand": {
+            "name": "Brand",
+            "img": "https://cdn5.lolalytics.com/champ140/brand.webp"
+        },
+        "blitzcrank": {
+            "name": "Blitzcrank",
+            "img": "https://cdn5.lolalytics.com/champ140/blitzcrank.webp"
+        },
+        "bard": {
+            "name": "Bard",
+            "img": "https://cdn5.lolalytics.com/champ140/bard.webp"
+        },
+        "azir": {
+            "name": "Azir",
+            "img": "https://cdn5.lolalytics.com/champ140/azir.webp"
+        },
+        "aurelionsol": {
+            "name": "Aurelion Sol",
+            "img": "https://cdn5.lolalytics.com/champ140/aurelionsol.webp"
+        },
+        "ashe": {
+            "name": "Ashe",
+            "img": "https://cdn5.lolalytics.com/champ140/ashe.webp"
+        },
+        "aphelios": {
+            "name": "Aphelios",
+            "img": "https://cdn5.lolalytics.com/champ140/aphelios.webp"
+        },
+        "annie": {
+            "name": "Annie",
+            "img": "https://cdn5.lolalytics.com/champ140/annie.webp"
+        },
+        "anivia": {
+            "name": "Anivia",
+            "img": "https://cdn5.lolalytics.com/champ140/anivia.webp"
+        },
+        "amumu": {
+            "name": "Amumu",
+            "img": "https://cdn5.lolalytics.com/champ140/amumu.webp"
+        },
+        "alistar": {
+            "name": "Alistar",
+            "img": "https://cdn5.lolalytics.com/champ140/alistar.webp"
+        },
+        "akali": {
+            "name": "Akali",
+            "img": "https://cdn5.lolalytics.com/champ140/akali.webp"
+        },
+        "ahri": {
+            "name": "Ahri",
+            "img": "https://cdn5.lolalytics.com/champ140/ahri.webp"
+        },
+        "aatrox": {
+            "name": "Aatrox",
+            "img": "https://cdn5.lolalytics.com/champ140/aatrox.webp"
+        }
+    },
+    "skill": {
+        "zyra_p": {
+            "name": "Zyra P",
+            "img": "https://cdn5.lolalytics.com/skill34/zyra_p.webp"
+        },
+        "zyra_q": {
+            "name": "Zyra Q",
+            "img": "https://cdn5.lolalytics.com/skill34/zyra_q.webp"
+        },
+        "zyra_w": {
+            "name": "Zyra W",
+            "img": "https://cdn5.lolalytics.com/skill34/zyra_w.webp"
+        },
+        "zyra_e": {
+            "name": "Zyra E",
+            "img": "https://cdn5.lolalytics.com/skill34/zyra_e.webp"
+        },
+        "zyra_r": {
+            "name": "Zyra R",
+            "img": "https://cdn5.lolalytics.com/skill34/zyra_r.webp"
+        },
+        "zoe_p": {
+            "name": "Zoe P",
+            "img": "https://cdn5.lolalytics.com/skill34/zoe_p.webp"
+        },
+        "zoe_q": {
+            "name": "Zoe Q",
+            "img": "https://cdn5.lolalytics.com/skill34/zoe_q.webp"
+        },
+        "zoe_w": {
+            "name": "Zoe W",
+            "img": "https://cdn5.lolalytics.com/skill34/zoe_w.webp"
+        },
+        "zoe_e": {
+            "name": "Zoe E",
+            "img": "https://cdn5.lolalytics.com/skill34/zoe_e.webp"
+        },
+        "zoe_r": {
+            "name": "Zoe R",
+            "img": "https://cdn5.lolalytics.com/skill34/zoe_r.webp"
+        },
+        "zilean_p": {
+            "name": "Zilean P",
+            "img": "https://cdn5.lolalytics.com/skill34/zilean_p.webp"
+        },
+        "zilean_q": {
+            "name": "Zilean Q",
+            "img": "https://cdn5.lolalytics.com/skill34/zilean_q.webp"
+        },
+        "zilean_w": {
+            "name": "Zilean W",
+            "img": "https://cdn5.lolalytics.com/skill34/zilean_w.webp"
+        },
+        "zilean_e": {
+            "name": "Zilean E",
+            "img": "https://cdn5.lolalytics.com/skill34/zilean_e.webp"
+        },
+        "zilean_r": {
+            "name": "Zilean R",
+            "img": "https://cdn5.lolalytics.com/skill34/zilean_r.webp"
+        },
+        "ziggs_p": {
+            "name": "Ziggs P",
+            "img": "https://cdn5.lolalytics.com/skill34/ziggs_p.webp"
+        },
+        "ziggs_q": {
+            "name": "Ziggs Q",
+            "img": "https://cdn5.lolalytics.com/skill34/ziggs_q.webp"
+        },
+        "ziggs_w": {
+            "name": "Ziggs W",
+            "img": "https://cdn5.lolalytics.com/skill34/ziggs_w.webp"
+        },
+        "ziggs_e": {
+            "name": "Ziggs E",
+            "img": "https://cdn5.lolalytics.com/skill34/ziggs_e.webp"
+        },
+        "ziggs_r": {
+            "name": "Ziggs R",
+            "img": "https://cdn5.lolalytics.com/skill34/ziggs_r.webp"
+        },
+        "zed_p": {
+            "name": "Zed P",
+            "img": "https://cdn5.lolalytics.com/skill34/zed_p.webp"
+        },
+        "zed_q": {
+            "name": "Zed Q",
+            "img": "https://cdn5.lolalytics.com/skill34/zed_q.webp"
+        },
+        "zed_w": {
+            "name": "Zed W",
+            "img": "https://cdn5.lolalytics.com/skill34/zed_w.webp"
+        },
+        "zed_e": {
+            "name": "Zed E",
+            "img": "https://cdn5.lolalytics.com/skill34/zed_e.webp"
+        },
+        "zed_r": {
+            "name": "Zed R",
+            "img": "https://cdn5.lolalytics.com/skill34/zed_r.webp"
+        },
+        "zac_p": {
+            "name": "Zac P",
+            "img": "https://cdn5.lolalytics.com/skill34/zac_p.webp"
+        },
+        "zac_q": {
+            "name": "Zac Q",
+            "img": "https://cdn5.lolalytics.com/skill34/zac_q.webp"
+        },
+        "zac_w": {
+            "name": "Zac W",
+            "img": "https://cdn5.lolalytics.com/skill34/zac_w.webp"
+        },
+        "zac_e": {
+            "name": "Zac E",
+            "img": "https://cdn5.lolalytics.com/skill34/zac_e.webp"
+        },
+        "zac_r": {
+            "name": "Zac R",
+            "img": "https://cdn5.lolalytics.com/skill34/zac_r.webp"
+        },
+        "yuumi_p": {
+            "name": "Yuumi P",
+            "img": "https://cdn5.lolalytics.com/skill34/yuumi_p.webp"
+        },
+        "yuumi_q": {
+            "name": "Yuumi Q",
+            "img": "https://cdn5.lolalytics.com/skill34/yuumi_q.webp"
+        },
+        "yuumi_w": {
+            "name": "Yuumi W",
+            "img": "https://cdn5.lolalytics.com/skill34/yuumi_w.webp"
+        },
+        "yuumi_e": {
+            "name": "Yuumi E",
+            "img": "https://cdn5.lolalytics.com/skill34/yuumi_e.webp"
+        },
+        "yuumi_r": {
+            "name": "Yuumi R",
+            "img": "https://cdn5.lolalytics.com/skill34/yuumi_r.webp"
+        },
+        "yorick_p": {
+            "name": "Yorick P",
+            "img": "https://cdn5.lolalytics.com/skill34/yorick_p.webp"
+        },
+        "yorick_q": {
+            "name": "Yorick Q",
+            "img": "https://cdn5.lolalytics.com/skill34/yorick_q.webp"
+        },
+        "yorick_w": {
+            "name": "Yorick W",
+            "img": "https://cdn5.lolalytics.com/skill34/yorick_w.webp"
+        },
+        "yorick_e": {
+            "name": "Yorick E",
+            "img": "https://cdn5.lolalytics.com/skill34/yorick_e.webp"
+        },
+        "yorick_r": {
+            "name": "Yorick R",
+            "img": "https://cdn5.lolalytics.com/skill34/yorick_r.webp"
+        },
+        "yone_p": {
+            "name": "Yone P",
+            "img": "https://cdn5.lolalytics.com/skill34/yone_p.webp"
+        },
+        "yone_q": {
+            "name": "Yone Q",
+            "img": "https://cdn5.lolalytics.com/skill34/yone_q.webp"
+        },
+        "yone_w": {
+            "name": "Yone W",
+            "img": "https://cdn5.lolalytics.com/skill34/yone_w.webp"
+        },
+        "yone_e": {
+            "name": "Yone E",
+            "img": "https://cdn5.lolalytics.com/skill34/yone_e.webp"
+        },
+        "yone_r": {
+            "name": "Yone R",
+            "img": "https://cdn5.lolalytics.com/skill34/yone_r.webp"
+        },
+        "yasuo_p": {
+            "name": "Yasuo P",
+            "img": "https://cdn5.lolalytics.com/skill34/yasuo_p.webp"
+        },
+        "yasuo_q": {
+            "name": "Yasuo Q",
+            "img": "https://cdn5.lolalytics.com/skill34/yasuo_q.webp"
+        },
+        "yasuo_w": {
+            "name": "Yasuo W",
+            "img": "https://cdn5.lolalytics.com/skill34/yasuo_w.webp"
+        },
+        "yasuo_e": {
+            "name": "Yasuo E",
+            "img": "https://cdn5.lolalytics.com/skill34/yasuo_e.webp"
+        },
+        "yasuo_r": {
+            "name": "Yasuo R",
+            "img": "https://cdn5.lolalytics.com/skill34/yasuo_r.webp"
+        },
+        "xinzhao_p": {
+            "name": "Xin Zhao P",
+            "img": "https://cdn5.lolalytics.com/skill34/xinzhao_p.webp"
+        },
+        "xinzhao_q": {
+            "name": "Xin Zhao Q",
+            "img": "https://cdn5.lolalytics.com/skill34/xinzhao_q.webp"
+        },
+        "xinzhao_w": {
+            "name": "Xin Zhao W",
+            "img": "https://cdn5.lolalytics.com/skill34/xinzhao_w.webp"
+        },
+        "xinzhao_e": {
+            "name": "Xin Zhao E",
+            "img": "https://cdn5.lolalytics.com/skill34/xinzhao_e.webp"
+        },
+        "xinzhao_r": {
+            "name": "Xin Zhao R",
+            "img": "https://cdn5.lolalytics.com/skill34/xinzhao_r.webp"
+        },
+        "xerath_p": {
+            "name": "Xerath P",
+            "img": "https://cdn5.lolalytics.com/skill34/xerath_p.webp"
+        },
+        "xerath_q": {
+            "name": "Xerath Q",
+            "img": "https://cdn5.lolalytics.com/skill34/xerath_q.webp"
+        },
+        "xerath_w": {
+            "name": "Xerath W",
+            "img": "https://cdn5.lolalytics.com/skill34/xerath_w.webp"
+        },
+        "xerath_e": {
+            "name": "Xerath E",
+            "img": "https://cdn5.lolalytics.com/skill34/xerath_e.webp"
+        },
+        "xerath_r": {
+            "name": "Xerath R",
+            "img": "https://cdn5.lolalytics.com/skill34/xerath_r.webp"
+        },
+        "xayah_p": {
+            "name": "Xayah P",
+            "img": "https://cdn5.lolalytics.com/skill34/xayah_p.webp"
+        },
+        "xayah_q": {
+            "name": "Xayah Q",
+            "img": "https://cdn5.lolalytics.com/skill34/xayah_q.webp"
+        },
+        "xayah_w": {
+            "name": "Xayah W",
+            "img": "https://cdn5.lolalytics.com/skill34/xayah_w.webp"
+        },
+        "xayah_e": {
+            "name": "Xayah E",
+            "img": "https://cdn5.lolalytics.com/skill34/xayah_e.webp"
+        },
+        "xayah_r": {
+            "name": "Xayah R",
+            "img": "https://cdn5.lolalytics.com/skill34/xayah_r.webp"
+        },
+        "wukong_p": {
+            "name": "Wukong P",
+            "img": "https://cdn5.lolalytics.com/skill34/wukong_p.webp"
+        },
+        "wukong_q": {
+            "name": "Wukong Q",
+            "img": "https://cdn5.lolalytics.com/skill34/wukong_q.webp"
+        },
+        "wukong_w": {
+            "name": "Wukong W",
+            "img": "https://cdn5.lolalytics.com/skill34/wukong_w.webp"
+        },
+        "wukong_e": {
+            "name": "Wukong E",
+            "img": "https://cdn5.lolalytics.com/skill34/wukong_e.webp"
+        },
+        "wukong_r": {
+            "name": "Wukong R",
+            "img": "https://cdn5.lolalytics.com/skill34/wukong_r.webp"
+        },
+        "warwick_p": {
+            "name": "Warwick P",
+            "img": "https://cdn5.lolalytics.com/skill34/warwick_p.webp"
+        },
+        "warwick_q": {
+            "name": "Warwick Q",
+            "img": "https://cdn5.lolalytics.com/skill34/warwick_q.webp"
+        },
+        "warwick_w": {
+            "name": "Warwick W",
+            "img": "https://cdn5.lolalytics.com/skill34/warwick_w.webp"
+        },
+        "warwick_e": {
+            "name": "Warwick E",
+            "img": "https://cdn5.lolalytics.com/skill34/warwick_e.webp"
+        },
+        "warwick_r": {
+            "name": "Warwick R",
+            "img": "https://cdn5.lolalytics.com/skill34/warwick_r.webp"
+        },
+        "volibear_p": {
+            "name": "Volibear P",
+            "img": "https://cdn5.lolalytics.com/skill34/volibear_p.webp"
+        },
+        "volibear_q": {
+            "name": "Volibear Q",
+            "img": "https://cdn5.lolalytics.com/skill34/volibear_q.webp"
+        },
+        "volibear_w": {
+            "name": "Volibear W",
+            "img": "https://cdn5.lolalytics.com/skill34/volibear_w.webp"
+        },
+        "volibear_e": {
+            "name": "Volibear E",
+            "img": "https://cdn5.lolalytics.com/skill34/volibear_e.webp"
+        },
+        "volibear_r": {
+            "name": "Volibear R",
+            "img": "https://cdn5.lolalytics.com/skill34/volibear_r.webp"
+        },
+        "vladimir_p": {
+            "name": "Vladimir P",
+            "img": "https://cdn5.lolalytics.com/skill34/vladimir_p.webp"
+        },
+        "vladimir_q": {
+            "name": "Vladimir Q",
+            "img": "https://cdn5.lolalytics.com/skill34/vladimir_q.webp"
+        },
+        "vladimir_w": {
+            "name": "Vladimir W",
+            "img": "https://cdn5.lolalytics.com/skill34/vladimir_w.webp"
+        },
+        "vladimir_e": {
+            "name": "Vladimir E",
+            "img": "https://cdn5.lolalytics.com/skill34/vladimir_e.webp"
+        },
+        "vladimir_r": {
+            "name": "Vladimir R",
+            "img": "https://cdn5.lolalytics.com/skill34/vladimir_r.webp"
+        },
+        "viktor_p": {
+            "name": "Viktor P",
+            "img": "https://cdn5.lolalytics.com/skill34/viktor_p.webp"
+        },
+        "viktor_q": {
+            "name": "Viktor Q",
+            "img": "https://cdn5.lolalytics.com/skill34/viktor_q.webp"
+        },
+        "viktor_w": {
+            "name": "Viktor W",
+            "img": "https://cdn5.lolalytics.com/skill34/viktor_w.webp"
+        },
+        "viktor_e": {
+            "name": "Viktor E",
+            "img": "https://cdn5.lolalytics.com/skill34/viktor_e.webp"
+        },
+        "viktor_r": {
+            "name": "Viktor R",
+            "img": "https://cdn5.lolalytics.com/skill34/viktor_r.webp"
+        },
+        "viego_p": {
+            "name": "Viego P",
+            "img": "https://cdn5.lolalytics.com/skill34/viego_p.webp"
+        },
+        "viego_q": {
+            "name": "Viego Q",
+            "img": "https://cdn5.lolalytics.com/skill34/viego_q.webp"
+        },
+        "viego_w": {
+            "name": "Viego W",
+            "img": "https://cdn5.lolalytics.com/skill34/viego_w.webp"
+        },
+        "viego_e": {
+            "name": "Viego E",
+            "img": "https://cdn5.lolalytics.com/skill34/viego_e.webp"
+        },
+        "viego_r": {
+            "name": "Viego R",
+            "img": "https://cdn5.lolalytics.com/skill34/viego_r.webp"
+        },
+        "vi_p": {
+            "name": "Vi P",
+            "img": "https://cdn5.lolalytics.com/skill34/vi_p.webp"
+        },
+        "vi_q": {
+            "name": "Vi Q",
+            "img": "https://cdn5.lolalytics.com/skill34/vi_q.webp"
+        },
+        "vi_w": {
+            "name": "Vi W",
+            "img": "https://cdn5.lolalytics.com/skill34/vi_w.webp"
+        },
+        "vi_e": {
+            "name": "Vi E",
+            "img": "https://cdn5.lolalytics.com/skill34/vi_e.webp"
+        },
+        "vi_r": {
+            "name": "Vi R",
+            "img": "https://cdn5.lolalytics.com/skill34/vi_r.webp"
+        },
+        "vex_p": {
+            "name": "Vex P",
+            "img": "https://cdn5.lolalytics.com/skill34/vex_p.webp"
+        },
+        "vex_q": {
+            "name": "Vex Q",
+            "img": "https://cdn5.lolalytics.com/skill34/vex_q.webp"
+        },
+        "vex_w": {
+            "name": "Vex W",
+            "img": "https://cdn5.lolalytics.com/skill34/vex_w.webp"
+        },
+        "vex_e": {
+            "name": "Vex E",
+            "img": "https://cdn5.lolalytics.com/skill34/vex_e.webp"
+        },
+        "vex_r": {
+            "name": "Vex R",
+            "img": "https://cdn5.lolalytics.com/skill34/vex_r.webp"
+        },
+        "velkoz_p": {
+            "name": "Vel'Koz P",
+            "img": "https://cdn5.lolalytics.com/skill34/velkoz_p.webp"
+        },
+        "velkoz_q": {
+            "name": "Vel'Koz Q",
+            "img": "https://cdn5.lolalytics.com/skill34/velkoz_q.webp"
+        },
+        "velkoz_w": {
+            "name": "Vel'Koz W",
+            "img": "https://cdn5.lolalytics.com/skill34/velkoz_w.webp"
+        },
+        "velkoz_e": {
+            "name": "Vel'Koz E",
+            "img": "https://cdn5.lolalytics.com/skill34/velkoz_e.webp"
+        },
+        "velkoz_r": {
+            "name": "Vel'Koz R",
+            "img": "https://cdn5.lolalytics.com/skill34/velkoz_r.webp"
+        },
+        "veigar_p": {
+            "name": "Veigar P",
+            "img": "https://cdn5.lolalytics.com/skill34/veigar_p.webp"
+        },
+        "veigar_q": {
+            "name": "Veigar Q",
+            "img": "https://cdn5.lolalytics.com/skill34/veigar_q.webp"
+        },
+        "veigar_w": {
+            "name": "Veigar W",
+            "img": "https://cdn5.lolalytics.com/skill34/veigar_w.webp"
+        },
+        "veigar_e": {
+            "name": "Veigar E",
+            "img": "https://cdn5.lolalytics.com/skill34/veigar_e.webp"
+        },
+        "veigar_r": {
+            "name": "Veigar R",
+            "img": "https://cdn5.lolalytics.com/skill34/veigar_r.webp"
+        },
+        "vayne_p": {
+            "name": "Vayne P",
+            "img": "https://cdn5.lolalytics.com/skill34/vayne_p.webp"
+        },
+        "vayne_q": {
+            "name": "Vayne Q",
+            "img": "https://cdn5.lolalytics.com/skill34/vayne_q.webp"
+        },
+        "vayne_w": {
+            "name": "Vayne W",
+            "img": "https://cdn5.lolalytics.com/skill34/vayne_w.webp"
+        },
+        "vayne_e": {
+            "name": "Vayne E",
+            "img": "https://cdn5.lolalytics.com/skill34/vayne_e.webp"
+        },
+        "vayne_r": {
+            "name": "Vayne R",
+            "img": "https://cdn5.lolalytics.com/skill34/vayne_r.webp"
+        },
+        "varus_p": {
+            "name": "Varus P",
+            "img": "https://cdn5.lolalytics.com/skill34/varus_p.webp"
+        },
+        "varus_q": {
+            "name": "Varus Q",
+            "img": "https://cdn5.lolalytics.com/skill34/varus_q.webp"
+        },
+        "varus_w": {
+            "name": "Varus W",
+            "img": "https://cdn5.lolalytics.com/skill34/varus_w.webp"
+        },
+        "varus_e": {
+            "name": "Varus E",
+            "img": "https://cdn5.lolalytics.com/skill34/varus_e.webp"
+        },
+        "varus_r": {
+            "name": "Varus R",
+            "img": "https://cdn5.lolalytics.com/skill34/varus_r.webp"
+        },
+        "urgot_p": {
+            "name": "Urgot P",
+            "img": "https://cdn5.lolalytics.com/skill34/urgot_p.webp"
+        },
+        "urgot_q": {
+            "name": "Urgot Q",
+            "img": "https://cdn5.lolalytics.com/skill34/urgot_q.webp"
+        },
+        "urgot_w": {
+            "name": "Urgot W",
+            "img": "https://cdn5.lolalytics.com/skill34/urgot_w.webp"
+        },
+        "urgot_e": {
+            "name": "Urgot E",
+            "img": "https://cdn5.lolalytics.com/skill34/urgot_e.webp"
+        },
+        "urgot_r": {
+            "name": "Urgot R",
+            "img": "https://cdn5.lolalytics.com/skill34/urgot_r.webp"
+        },
+        "udyr_p": {
+            "name": "Udyr P",
+            "img": "https://cdn5.lolalytics.com/skill34/udyr_p.webp"
+        },
+        "udyr_q": {
+            "name": "Udyr Q",
+            "img": "https://cdn5.lolalytics.com/skill34/udyr_q.webp"
+        },
+        "udyr_w": {
+            "name": "Udyr W",
+            "img": "https://cdn5.lolalytics.com/skill34/udyr_w.webp"
+        },
+        "udyr_e": {
+            "name": "Udyr E",
+            "img": "https://cdn5.lolalytics.com/skill34/udyr_e.webp"
+        },
+        "udyr_r": {
+            "name": "Udyr R",
+            "img": "https://cdn5.lolalytics.com/skill34/udyr_r.webp"
+        },
+        "twitch_p": {
+            "name": "Twitch P",
+            "img": "https://cdn5.lolalytics.com/skill34/twitch_p.webp"
+        },
+        "twitch_q": {
+            "name": "Twitch Q",
+            "img": "https://cdn5.lolalytics.com/skill34/twitch_q.webp"
+        },
+        "twitch_w": {
+            "name": "Twitch W",
+            "img": "https://cdn5.lolalytics.com/skill34/twitch_w.webp"
+        },
+        "twitch_e": {
+            "name": "Twitch E",
+            "img": "https://cdn5.lolalytics.com/skill34/twitch_e.webp"
+        },
+        "twitch_r": {
+            "name": "Twitch R",
+            "img": "https://cdn5.lolalytics.com/skill34/twitch_r.webp"
+        },
+        "twistedfate_p": {
+            "name": "Twisted Fate P",
+            "img": "https://cdn5.lolalytics.com/skill34/twistedfate_p.webp"
+        },
+        "twistedfate_q": {
+            "name": "Twisted Fate Q",
+            "img": "https://cdn5.lolalytics.com/skill34/twistedfate_q.webp"
+        },
+        "twistedfate_w": {
+            "name": "Twisted Fate W",
+            "img": "https://cdn5.lolalytics.com/skill34/twistedfate_w.webp"
+        },
+        "twistedfate_e": {
+            "name": "Twisted Fate E",
+            "img": "https://cdn5.lolalytics.com/skill34/twistedfate_e.webp"
+        },
+        "twistedfate_r": {
+            "name": "Twisted Fate R",
+            "img": "https://cdn5.lolalytics.com/skill34/twistedfate_r.webp"
+        },
+        "tryndamere_p": {
+            "name": "Tryndamere P",
+            "img": "https://cdn5.lolalytics.com/skill34/tryndamere_p.webp"
+        },
+        "tryndamere_q": {
+            "name": "Tryndamere Q",
+            "img": "https://cdn5.lolalytics.com/skill34/tryndamere_q.webp"
+        },
+        "tryndamere_w": {
+            "name": "Tryndamere W",
+            "img": "https://cdn5.lolalytics.com/skill34/tryndamere_w.webp"
+        },
+        "tryndamere_e": {
+            "name": "Tryndamere E",
+            "img": "https://cdn5.lolalytics.com/skill34/tryndamere_e.webp"
+        },
+        "tryndamere_r": {
+            "name": "Tryndamere R",
+            "img": "https://cdn5.lolalytics.com/skill34/tryndamere_r.webp"
+        },
+        "trundle_p": {
+            "name": "Trundle P",
+            "img": "https://cdn5.lolalytics.com/skill34/trundle_p.webp"
+        },
+        "trundle_q": {
+            "name": "Trundle Q",
+            "img": "https://cdn5.lolalytics.com/skill34/trundle_q.webp"
+        },
+        "trundle_w": {
+            "name": "Trundle W",
+            "img": "https://cdn5.lolalytics.com/skill34/trundle_w.webp"
+        },
+        "trundle_e": {
+            "name": "Trundle E",
+            "img": "https://cdn5.lolalytics.com/skill34/trundle_e.webp"
+        },
+        "trundle_r": {
+            "name": "Trundle R",
+            "img": "https://cdn5.lolalytics.com/skill34/trundle_r.webp"
+        },
+        "tristana_p": {
+            "name": "Tristana P",
+            "img": "https://cdn5.lolalytics.com/skill34/tristana_p.webp"
+        },
+        "tristana_q": {
+            "name": "Tristana Q",
+            "img": "https://cdn5.lolalytics.com/skill34/tristana_q.webp"
+        },
+        "tristana_w": {
+            "name": "Tristana W",
+            "img": "https://cdn5.lolalytics.com/skill34/tristana_w.webp"
+        },
+        "tristana_e": {
+            "name": "Tristana E",
+            "img": "https://cdn5.lolalytics.com/skill34/tristana_e.webp"
+        },
+        "tristana_r": {
+            "name": "Tristana R",
+            "img": "https://cdn5.lolalytics.com/skill34/tristana_r.webp"
+        },
+        "thresh_p": {
+            "name": "Thresh P",
+            "img": "https://cdn5.lolalytics.com/skill34/thresh_p.webp"
+        },
+        "thresh_q": {
+            "name": "Thresh Q",
+            "img": "https://cdn5.lolalytics.com/skill34/thresh_q.webp"
+        },
+        "thresh_w": {
+            "name": "Thresh W",
+            "img": "https://cdn5.lolalytics.com/skill34/thresh_w.webp"
+        },
+        "thresh_e": {
+            "name": "Thresh E",
+            "img": "https://cdn5.lolalytics.com/skill34/thresh_e.webp"
+        },
+        "thresh_r": {
+            "name": "Thresh R",
+            "img": "https://cdn5.lolalytics.com/skill34/thresh_r.webp"
+        },
+        "teemo_p": {
+            "name": "Teemo P",
+            "img": "https://cdn5.lolalytics.com/skill34/teemo_p.webp"
+        },
+        "teemo_q": {
+            "name": "Teemo Q",
+            "img": "https://cdn5.lolalytics.com/skill34/teemo_q.webp"
+        },
+        "teemo_w": {
+            "name": "Teemo W",
+            "img": "https://cdn5.lolalytics.com/skill34/teemo_w.webp"
+        },
+        "teemo_e": {
+            "name": "Teemo E",
+            "img": "https://cdn5.lolalytics.com/skill34/teemo_e.webp"
+        },
+        "teemo_r": {
+            "name": "Teemo R",
+            "img": "https://cdn5.lolalytics.com/skill34/teemo_r.webp"
+        },
+        "taric_p": {
+            "name": "Taric P",
+            "img": "https://cdn5.lolalytics.com/skill34/taric_p.webp"
+        },
+        "taric_q": {
+            "name": "Taric Q",
+            "img": "https://cdn5.lolalytics.com/skill34/taric_q.webp"
+        },
+        "taric_w": {
+            "name": "Taric W",
+            "img": "https://cdn5.lolalytics.com/skill34/taric_w.webp"
+        },
+        "taric_e": {
+            "name": "Taric E",
+            "img": "https://cdn5.lolalytics.com/skill34/taric_e.webp"
+        },
+        "taric_r": {
+            "name": "Taric R",
+            "img": "https://cdn5.lolalytics.com/skill34/taric_r.webp"
+        },
+        "talon_p": {
+            "name": "Talon P",
+            "img": "https://cdn5.lolalytics.com/skill34/talon_p.webp"
+        },
+        "talon_q": {
+            "name": "Talon Q",
+            "img": "https://cdn5.lolalytics.com/skill34/talon_q.webp"
+        },
+        "talon_w": {
+            "name": "Talon W",
+            "img": "https://cdn5.lolalytics.com/skill34/talon_w.webp"
+        },
+        "talon_e": {
+            "name": "Talon E",
+            "img": "https://cdn5.lolalytics.com/skill34/talon_e.webp"
+        },
+        "talon_r": {
+            "name": "Talon R",
+            "img": "https://cdn5.lolalytics.com/skill34/talon_r.webp"
+        },
+        "taliyah_p": {
+            "name": "Taliyah P",
+            "img": "https://cdn5.lolalytics.com/skill34/taliyah_p.webp"
+        },
+        "taliyah_q": {
+            "name": "Taliyah Q",
+            "img": "https://cdn5.lolalytics.com/skill34/taliyah_q.webp"
+        },
+        "taliyah_w": {
+            "name": "Taliyah W",
+            "img": "https://cdn5.lolalytics.com/skill34/taliyah_w.webp"
+        },
+        "taliyah_e": {
+            "name": "Taliyah E",
+            "img": "https://cdn5.lolalytics.com/skill34/taliyah_e.webp"
+        },
+        "taliyah_r": {
+            "name": "Taliyah R",
+            "img": "https://cdn5.lolalytics.com/skill34/taliyah_r.webp"
+        },
+        "tahmkench_p": {
+            "name": "Tahm Kench P",
+            "img": "https://cdn5.lolalytics.com/skill34/tahmkench_p.webp"
+        },
+        "tahmkench_q": {
+            "name": "Tahm Kench Q",
+            "img": "https://cdn5.lolalytics.com/skill34/tahmkench_q.webp"
+        },
+        "tahmkench_w": {
+            "name": "Tahm Kench W",
+            "img": "https://cdn5.lolalytics.com/skill34/tahmkench_w.webp"
+        },
+        "tahmkench_e": {
+            "name": "Tahm Kench E",
+            "img": "https://cdn5.lolalytics.com/skill34/tahmkench_e.webp"
+        },
+        "tahmkench_r": {
+            "name": "Tahm Kench R",
+            "img": "https://cdn5.lolalytics.com/skill34/tahmkench_r.webp"
+        },
+        "syndra_p": {
+            "name": "Syndra P",
+            "img": "https://cdn5.lolalytics.com/skill34/syndra_p.webp"
+        },
+        "syndra_q": {
+            "name": "Syndra Q",
+            "img": "https://cdn5.lolalytics.com/skill34/syndra_q.webp"
+        },
+        "syndra_w": {
+            "name": "Syndra W",
+            "img": "https://cdn5.lolalytics.com/skill34/syndra_w.webp"
+        },
+        "syndra_e": {
+            "name": "Syndra E",
+            "img": "https://cdn5.lolalytics.com/skill34/syndra_e.webp"
+        },
+        "syndra_r": {
+            "name": "Syndra R",
+            "img": "https://cdn5.lolalytics.com/skill34/syndra_r.webp"
+        },
+        "sylas_p": {
+            "name": "Sylas P",
+            "img": "https://cdn5.lolalytics.com/skill34/sylas_p.webp"
+        },
+        "sylas_q": {
+            "name": "Sylas Q",
+            "img": "https://cdn5.lolalytics.com/skill34/sylas_q.webp"
+        },
+        "sylas_w": {
+            "name": "Sylas W",
+            "img": "https://cdn5.lolalytics.com/skill34/sylas_w.webp"
+        },
+        "sylas_e": {
+            "name": "Sylas E",
+            "img": "https://cdn5.lolalytics.com/skill34/sylas_e.webp"
+        },
+        "sylas_r": {
+            "name": "Sylas R",
+            "img": "https://cdn5.lolalytics.com/skill34/sylas_r.webp"
+        },
+        "swain_p": {
+            "name": "Swain P",
+            "img": "https://cdn5.lolalytics.com/skill34/swain_p.webp"
+        },
+        "swain_q": {
+            "name": "Swain Q",
+            "img": "https://cdn5.lolalytics.com/skill34/swain_q.webp"
+        },
+        "swain_w": {
+            "name": "Swain W",
+            "img": "https://cdn5.lolalytics.com/skill34/swain_w.webp"
+        },
+        "swain_e": {
+            "name": "Swain E",
+            "img": "https://cdn5.lolalytics.com/skill34/swain_e.webp"
+        },
+        "swain_r": {
+            "name": "Swain R",
+            "img": "https://cdn5.lolalytics.com/skill34/swain_r.webp"
+        },
+        "soraka_p": {
+            "name": "Soraka P",
+            "img": "https://cdn5.lolalytics.com/skill34/soraka_p.webp"
+        },
+        "soraka_q": {
+            "name": "Soraka Q",
+            "img": "https://cdn5.lolalytics.com/skill34/soraka_q.webp"
+        },
+        "soraka_w": {
+            "name": "Soraka W",
+            "img": "https://cdn5.lolalytics.com/skill34/soraka_w.webp"
+        },
+        "soraka_e": {
+            "name": "Soraka E",
+            "img": "https://cdn5.lolalytics.com/skill34/soraka_e.webp"
+        },
+        "soraka_r": {
+            "name": "Soraka R",
+            "img": "https://cdn5.lolalytics.com/skill34/soraka_r.webp"
+        },
+        "sona_p": {
+            "name": "Sona P",
+            "img": "https://cdn5.lolalytics.com/skill34/sona_p.webp"
+        },
+        "sona_q": {
+            "name": "Sona Q",
+            "img": "https://cdn5.lolalytics.com/skill34/sona_q.webp"
+        },
+        "sona_w": {
+            "name": "Sona W",
+            "img": "https://cdn5.lolalytics.com/skill34/sona_w.webp"
+        },
+        "sona_e": {
+            "name": "Sona E",
+            "img": "https://cdn5.lolalytics.com/skill34/sona_e.webp"
+        },
+        "sona_r": {
+            "name": "Sona R",
+            "img": "https://cdn5.lolalytics.com/skill34/sona_r.webp"
+        },
+        "skarner_p": {
+            "name": "Skarner P",
+            "img": "https://cdn5.lolalytics.com/skill34/skarner_p.webp"
+        },
+        "skarner_q": {
+            "name": "Skarner Q",
+            "img": "https://cdn5.lolalytics.com/skill34/skarner_q.webp"
+        },
+        "skarner_w": {
+            "name": "Skarner W",
+            "img": "https://cdn5.lolalytics.com/skill34/skarner_w.webp"
+        },
+        "skarner_e": {
+            "name": "Skarner E",
+            "img": "https://cdn5.lolalytics.com/skill34/skarner_e.webp"
+        },
+        "skarner_r": {
+            "name": "Skarner R",
+            "img": "https://cdn5.lolalytics.com/skill34/skarner_r.webp"
+        },
+        "sivir_p": {
+            "name": "Sivir P",
+            "img": "https://cdn5.lolalytics.com/skill34/sivir_p.webp"
+        },
+        "sivir_q": {
+            "name": "Sivir Q",
+            "img": "https://cdn5.lolalytics.com/skill34/sivir_q.webp"
+        },
+        "sivir_w": {
+            "name": "Sivir W",
+            "img": "https://cdn5.lolalytics.com/skill34/sivir_w.webp"
+        },
+        "sivir_e": {
+            "name": "Sivir E",
+            "img": "https://cdn5.lolalytics.com/skill34/sivir_e.webp"
+        },
+        "sivir_r": {
+            "name": "Sivir R",
+            "img": "https://cdn5.lolalytics.com/skill34/sivir_r.webp"
+        },
+        "sion_p": {
+            "name": "Sion P",
+            "img": "https://cdn5.lolalytics.com/skill34/sion_p.webp"
+        },
+        "sion_q": {
+            "name": "Sion Q",
+            "img": "https://cdn5.lolalytics.com/skill34/sion_q.webp"
+        },
+        "sion_w": {
+            "name": "Sion W",
+            "img": "https://cdn5.lolalytics.com/skill34/sion_w.webp"
+        },
+        "sion_e": {
+            "name": "Sion E",
+            "img": "https://cdn5.lolalytics.com/skill34/sion_e.webp"
+        },
+        "sion_r": {
+            "name": "Sion R",
+            "img": "https://cdn5.lolalytics.com/skill34/sion_r.webp"
+        },
+        "singed_p": {
+            "name": "Singed P",
+            "img": "https://cdn5.lolalytics.com/skill34/singed_p.webp"
+        },
+        "singed_q": {
+            "name": "Singed Q",
+            "img": "https://cdn5.lolalytics.com/skill34/singed_q.webp"
+        },
+        "singed_w": {
+            "name": "Singed W",
+            "img": "https://cdn5.lolalytics.com/skill34/singed_w.webp"
+        },
+        "singed_e": {
+            "name": "Singed E",
+            "img": "https://cdn5.lolalytics.com/skill34/singed_e.webp"
+        },
+        "singed_r": {
+            "name": "Singed R",
+            "img": "https://cdn5.lolalytics.com/skill34/singed_r.webp"
+        },
+        "shyvana_p": {
+            "name": "Shyvana P",
+            "img": "https://cdn5.lolalytics.com/skill34/shyvana_p.webp"
+        },
+        "shyvana_q": {
+            "name": "Shyvana Q",
+            "img": "https://cdn5.lolalytics.com/skill34/shyvana_q.webp"
+        },
+        "shyvana_w": {
+            "name": "Shyvana W",
+            "img": "https://cdn5.lolalytics.com/skill34/shyvana_w.webp"
+        },
+        "shyvana_e": {
+            "name": "Shyvana E",
+            "img": "https://cdn5.lolalytics.com/skill34/shyvana_e.webp"
+        },
+        "shyvana_r": {
+            "name": "Shyvana R",
+            "img": "https://cdn5.lolalytics.com/skill34/shyvana_r.webp"
+        },
+        "shen_p": {
+            "name": "Shen P",
+            "img": "https://cdn5.lolalytics.com/skill34/shen_p.webp"
+        },
+        "shen_q": {
+            "name": "Shen Q",
+            "img": "https://cdn5.lolalytics.com/skill34/shen_q.webp"
+        },
+        "shen_w": {
+            "name": "Shen W",
+            "img": "https://cdn5.lolalytics.com/skill34/shen_w.webp"
+        },
+        "shen_e": {
+            "name": "Shen E",
+            "img": "https://cdn5.lolalytics.com/skill34/shen_e.webp"
+        },
+        "shen_r": {
+            "name": "Shen R",
+            "img": "https://cdn5.lolalytics.com/skill34/shen_r.webp"
+        },
+        "shaco_p": {
+            "name": "Shaco P",
+            "img": "https://cdn5.lolalytics.com/skill34/shaco_p.webp"
+        },
+        "shaco_q": {
+            "name": "Shaco Q",
+            "img": "https://cdn5.lolalytics.com/skill34/shaco_q.webp"
+        },
+        "shaco_w": {
+            "name": "Shaco W",
+            "img": "https://cdn5.lolalytics.com/skill34/shaco_w.webp"
+        },
+        "shaco_e": {
+            "name": "Shaco E",
+            "img": "https://cdn5.lolalytics.com/skill34/shaco_e.webp"
+        },
+        "shaco_r": {
+            "name": "Shaco R",
+            "img": "https://cdn5.lolalytics.com/skill34/shaco_r.webp"
+        },
+        "sett_p": {
+            "name": "Sett P",
+            "img": "https://cdn5.lolalytics.com/skill34/sett_p.webp"
+        },
+        "sett_q": {
+            "name": "Sett Q",
+            "img": "https://cdn5.lolalytics.com/skill34/sett_q.webp"
+        },
+        "sett_w": {
+            "name": "Sett W",
+            "img": "https://cdn5.lolalytics.com/skill34/sett_w.webp"
+        },
+        "sett_e": {
+            "name": "Sett E",
+            "img": "https://cdn5.lolalytics.com/skill34/sett_e.webp"
+        },
+        "sett_r": {
+            "name": "Sett R",
+            "img": "https://cdn5.lolalytics.com/skill34/sett_r.webp"
+        },
+        "seraphine_p": {
+            "name": "Seraphine P",
+            "img": "https://cdn5.lolalytics.com/skill34/seraphine_p.webp"
+        },
+        "seraphine_q": {
+            "name": "Seraphine Q",
+            "img": "https://cdn5.lolalytics.com/skill34/seraphine_q.webp"
+        },
+        "seraphine_w": {
+            "name": "Seraphine W",
+            "img": "https://cdn5.lolalytics.com/skill34/seraphine_w.webp"
+        },
+        "seraphine_e": {
+            "name": "Seraphine E",
+            "img": "https://cdn5.lolalytics.com/skill34/seraphine_e.webp"
+        },
+        "seraphine_r": {
+            "name": "Seraphine R",
+            "img": "https://cdn5.lolalytics.com/skill34/seraphine_r.webp"
+        },
+        "senna_p": {
+            "name": "Senna P",
+            "img": "https://cdn5.lolalytics.com/skill34/senna_p.webp"
+        },
+        "senna_q": {
+            "name": "Senna Q",
+            "img": "https://cdn5.lolalytics.com/skill34/senna_q.webp"
+        },
+        "senna_w": {
+            "name": "Senna W",
+            "img": "https://cdn5.lolalytics.com/skill34/senna_w.webp"
+        },
+        "senna_e": {
+            "name": "Senna E",
+            "img": "https://cdn5.lolalytics.com/skill34/senna_e.webp"
+        },
+        "senna_r": {
+            "name": "Senna R",
+            "img": "https://cdn5.lolalytics.com/skill34/senna_r.webp"
+        },
+        "sejuani_p": {
+            "name": "Sejuani P",
+            "img": "https://cdn5.lolalytics.com/skill34/sejuani_p.webp"
+        },
+        "sejuani_q": {
+            "name": "Sejuani Q",
+            "img": "https://cdn5.lolalytics.com/skill34/sejuani_q.webp"
+        },
+        "sejuani_w": {
+            "name": "Sejuani W",
+            "img": "https://cdn5.lolalytics.com/skill34/sejuani_w.webp"
+        },
+        "sejuani_e": {
+            "name": "Sejuani E",
+            "img": "https://cdn5.lolalytics.com/skill34/sejuani_e.webp"
+        },
+        "sejuani_r": {
+            "name": "Sejuani R",
+            "img": "https://cdn5.lolalytics.com/skill34/sejuani_r.webp"
+        },
+        "samira_p": {
+            "name": "Samira P",
+            "img": "https://cdn5.lolalytics.com/skill34/samira_p.webp"
+        },
+        "samira_q": {
+            "name": "Samira Q",
+            "img": "https://cdn5.lolalytics.com/skill34/samira_q.webp"
+        },
+        "samira_w": {
+            "name": "Samira W",
+            "img": "https://cdn5.lolalytics.com/skill34/samira_w.webp"
+        },
+        "samira_e": {
+            "name": "Samira E",
+            "img": "https://cdn5.lolalytics.com/skill34/samira_e.webp"
+        },
+        "samira_r": {
+            "name": "Samira R",
+            "img": "https://cdn5.lolalytics.com/skill34/samira_r.webp"
+        },
+        "ryze_p": {
+            "name": "Ryze P",
+            "img": "https://cdn5.lolalytics.com/skill34/ryze_p.webp"
+        },
+        "ryze_q": {
+            "name": "Ryze Q",
+            "img": "https://cdn5.lolalytics.com/skill34/ryze_q.webp"
+        },
+        "ryze_w": {
+            "name": "Ryze W",
+            "img": "https://cdn5.lolalytics.com/skill34/ryze_w.webp"
+        },
+        "ryze_e": {
+            "name": "Ryze E",
+            "img": "https://cdn5.lolalytics.com/skill34/ryze_e.webp"
+        },
+        "ryze_r": {
+            "name": "Ryze R",
+            "img": "https://cdn5.lolalytics.com/skill34/ryze_r.webp"
+        },
+        "rumble_p": {
+            "name": "Rumble P",
+            "img": "https://cdn5.lolalytics.com/skill34/rumble_p.webp"
+        },
+        "rumble_q": {
+            "name": "Rumble Q",
+            "img": "https://cdn5.lolalytics.com/skill34/rumble_q.webp"
+        },
+        "rumble_w": {
+            "name": "Rumble W",
+            "img": "https://cdn5.lolalytics.com/skill34/rumble_w.webp"
+        },
+        "rumble_e": {
+            "name": "Rumble E",
+            "img": "https://cdn5.lolalytics.com/skill34/rumble_e.webp"
+        },
+        "rumble_r": {
+            "name": "Rumble R",
+            "img": "https://cdn5.lolalytics.com/skill34/rumble_r.webp"
+        },
+        "riven_p": {
+            "name": "Riven P",
+            "img": "https://cdn5.lolalytics.com/skill34/riven_p.webp"
+        },
+        "riven_q": {
+            "name": "Riven Q",
+            "img": "https://cdn5.lolalytics.com/skill34/riven_q.webp"
+        },
+        "riven_w": {
+            "name": "Riven W",
+            "img": "https://cdn5.lolalytics.com/skill34/riven_w.webp"
+        },
+        "riven_e": {
+            "name": "Riven E",
+            "img": "https://cdn5.lolalytics.com/skill34/riven_e.webp"
+        },
+        "riven_r": {
+            "name": "Riven R",
+            "img": "https://cdn5.lolalytics.com/skill34/riven_r.webp"
+        },
+        "rengar_p": {
+            "name": "Rengar P",
+            "img": "https://cdn5.lolalytics.com/skill34/rengar_p.webp"
+        },
+        "rengar_q": {
+            "name": "Rengar Q",
+            "img": "https://cdn5.lolalytics.com/skill34/rengar_q.webp"
+        },
+        "rengar_w": {
+            "name": "Rengar W",
+            "img": "https://cdn5.lolalytics.com/skill34/rengar_w.webp"
+        },
+        "rengar_e": {
+            "name": "Rengar E",
+            "img": "https://cdn5.lolalytics.com/skill34/rengar_e.webp"
+        },
+        "rengar_r": {
+            "name": "Rengar R",
+            "img": "https://cdn5.lolalytics.com/skill34/rengar_r.webp"
+        },
+        "renekton_p": {
+            "name": "Renekton P",
+            "img": "https://cdn5.lolalytics.com/skill34/renekton_p.webp"
+        },
+        "renekton_q": {
+            "name": "Renekton Q",
+            "img": "https://cdn5.lolalytics.com/skill34/renekton_q.webp"
+        },
+        "renekton_w": {
+            "name": "Renekton W",
+            "img": "https://cdn5.lolalytics.com/skill34/renekton_w.webp"
+        },
+        "renekton_e": {
+            "name": "Renekton E",
+            "img": "https://cdn5.lolalytics.com/skill34/renekton_e.webp"
+        },
+        "renekton_r": {
+            "name": "Renekton R",
+            "img": "https://cdn5.lolalytics.com/skill34/renekton_r.webp"
+        },
+        "renata_p": {
+            "name": "Renata Glasc P",
+            "img": "https://cdn5.lolalytics.com/skill34/renata_p.webp"
+        },
+        "renata_q": {
+            "name": "Renata Glasc Q",
+            "img": "https://cdn5.lolalytics.com/skill34/renata_q.webp"
+        },
+        "renata_w": {
+            "name": "Renata Glasc W",
+            "img": "https://cdn5.lolalytics.com/skill34/renata_w.webp"
+        },
+        "renata_e": {
+            "name": "Renata Glasc E",
+            "img": "https://cdn5.lolalytics.com/skill34/renata_e.webp"
+        },
+        "renata_r": {
+            "name": "Renata Glasc R",
+            "img": "https://cdn5.lolalytics.com/skill34/renata_r.webp"
+        },
+        "rell_p": {
+            "name": "Rell P",
+            "img": "https://cdn5.lolalytics.com/skill34/rell_p.webp"
+        },
+        "rell_q": {
+            "name": "Rell Q",
+            "img": "https://cdn5.lolalytics.com/skill34/rell_q.webp"
+        },
+        "rell_w": {
+            "name": "Rell W",
+            "img": "https://cdn5.lolalytics.com/skill34/rell_w.webp"
+        },
+        "rell_e": {
+            "name": "Rell E",
+            "img": "https://cdn5.lolalytics.com/skill34/rell_e.webp"
+        },
+        "rell_r": {
+            "name": "Rell R",
+            "img": "https://cdn5.lolalytics.com/skill34/rell_r.webp"
+        },
+        "reksai_p": {
+            "name": "Rek'Sai P",
+            "img": "https://cdn5.lolalytics.com/skill34/reksai_p.webp"
+        },
+        "reksai_q": {
+            "name": "Rek'Sai Q",
+            "img": "https://cdn5.lolalytics.com/skill34/reksai_q.webp"
+        },
+        "reksai_w": {
+            "name": "Rek'Sai W",
+            "img": "https://cdn5.lolalytics.com/skill34/reksai_w.webp"
+        },
+        "reksai_e": {
+            "name": "Rek'Sai E",
+            "img": "https://cdn5.lolalytics.com/skill34/reksai_e.webp"
+        },
+        "reksai_r": {
+            "name": "Rek'Sai R",
+            "img": "https://cdn5.lolalytics.com/skill34/reksai_r.webp"
+        },
+        "rammus_p": {
+            "name": "Rammus P",
+            "img": "https://cdn5.lolalytics.com/skill34/rammus_p.webp"
+        },
+        "rammus_q": {
+            "name": "Rammus Q",
+            "img": "https://cdn5.lolalytics.com/skill34/rammus_q.webp"
+        },
+        "rammus_w": {
+            "name": "Rammus W",
+            "img": "https://cdn5.lolalytics.com/skill34/rammus_w.webp"
+        },
+        "rammus_e": {
+            "name": "Rammus E",
+            "img": "https://cdn5.lolalytics.com/skill34/rammus_e.webp"
+        },
+        "rammus_r": {
+            "name": "Rammus R",
+            "img": "https://cdn5.lolalytics.com/skill34/rammus_r.webp"
+        },
+        "rakan_p": {
+            "name": "Rakan P",
+            "img": "https://cdn5.lolalytics.com/skill34/rakan_p.webp"
+        },
+        "rakan_q": {
+            "name": "Rakan Q",
+            "img": "https://cdn5.lolalytics.com/skill34/rakan_q.webp"
+        },
+        "rakan_w": {
+            "name": "Rakan W",
+            "img": "https://cdn5.lolalytics.com/skill34/rakan_w.webp"
+        },
+        "rakan_e": {
+            "name": "Rakan E",
+            "img": "https://cdn5.lolalytics.com/skill34/rakan_e.webp"
+        },
+        "rakan_r": {
+            "name": "Rakan R",
+            "img": "https://cdn5.lolalytics.com/skill34/rakan_r.webp"
+        },
+        "quinn_p": {
+            "name": "Quinn P",
+            "img": "https://cdn5.lolalytics.com/skill34/quinn_p.webp"
+        },
+        "quinn_q": {
+            "name": "Quinn Q",
+            "img": "https://cdn5.lolalytics.com/skill34/quinn_q.webp"
+        },
+        "quinn_w": {
+            "name": "Quinn W",
+            "img": "https://cdn5.lolalytics.com/skill34/quinn_w.webp"
+        },
+        "quinn_e": {
+            "name": "Quinn E",
+            "img": "https://cdn5.lolalytics.com/skill34/quinn_e.webp"
+        },
+        "quinn_r": {
+            "name": "Quinn R",
+            "img": "https://cdn5.lolalytics.com/skill34/quinn_r.webp"
+        },
+        "qiyana_p": {
+            "name": "Qiyana P",
+            "img": "https://cdn5.lolalytics.com/skill34/qiyana_p.webp"
+        },
+        "qiyana_q": {
+            "name": "Qiyana Q",
+            "img": "https://cdn5.lolalytics.com/skill34/qiyana_q.webp"
+        },
+        "qiyana_w": {
+            "name": "Qiyana W",
+            "img": "https://cdn5.lolalytics.com/skill34/qiyana_w.webp"
+        },
+        "qiyana_e": {
+            "name": "Qiyana E",
+            "img": "https://cdn5.lolalytics.com/skill34/qiyana_e.webp"
+        },
+        "qiyana_r": {
+            "name": "Qiyana R",
+            "img": "https://cdn5.lolalytics.com/skill34/qiyana_r.webp"
+        },
+        "pyke_p": {
+            "name": "Pyke P",
+            "img": "https://cdn5.lolalytics.com/skill34/pyke_p.webp"
+        },
+        "pyke_q": {
+            "name": "Pyke Q",
+            "img": "https://cdn5.lolalytics.com/skill34/pyke_q.webp"
+        },
+        "pyke_w": {
+            "name": "Pyke W",
+            "img": "https://cdn5.lolalytics.com/skill34/pyke_w.webp"
+        },
+        "pyke_e": {
+            "name": "Pyke E",
+            "img": "https://cdn5.lolalytics.com/skill34/pyke_e.webp"
+        },
+        "pyke_r": {
+            "name": "Pyke R",
+            "img": "https://cdn5.lolalytics.com/skill34/pyke_r.webp"
+        },
+        "poppy_p": {
+            "name": "Poppy P",
+            "img": "https://cdn5.lolalytics.com/skill34/poppy_p.webp"
+        },
+        "poppy_q": {
+            "name": "Poppy Q",
+            "img": "https://cdn5.lolalytics.com/skill34/poppy_q.webp"
+        },
+        "poppy_w": {
+            "name": "Poppy W",
+            "img": "https://cdn5.lolalytics.com/skill34/poppy_w.webp"
+        },
+        "poppy_e": {
+            "name": "Poppy E",
+            "img": "https://cdn5.lolalytics.com/skill34/poppy_e.webp"
+        },
+        "poppy_r": {
+            "name": "Poppy R",
+            "img": "https://cdn5.lolalytics.com/skill34/poppy_r.webp"
+        },
+        "pantheon_p": {
+            "name": "Pantheon P",
+            "img": "https://cdn5.lolalytics.com/skill34/pantheon_p.webp"
+        },
+        "pantheon_q": {
+            "name": "Pantheon Q",
+            "img": "https://cdn5.lolalytics.com/skill34/pantheon_q.webp"
+        },
+        "pantheon_w": {
+            "name": "Pantheon W",
+            "img": "https://cdn5.lolalytics.com/skill34/pantheon_w.webp"
+        },
+        "pantheon_e": {
+            "name": "Pantheon E",
+            "img": "https://cdn5.lolalytics.com/skill34/pantheon_e.webp"
+        },
+        "pantheon_r": {
+            "name": "Pantheon R",
+            "img": "https://cdn5.lolalytics.com/skill34/pantheon_r.webp"
+        },
+        "ornn_p": {
+            "name": "Ornn P",
+            "img": "https://cdn5.lolalytics.com/skill34/ornn_p.webp"
+        },
+        "ornn_q": {
+            "name": "Ornn Q",
+            "img": "https://cdn5.lolalytics.com/skill34/ornn_q.webp"
+        },
+        "ornn_w": {
+            "name": "Ornn W",
+            "img": "https://cdn5.lolalytics.com/skill34/ornn_w.webp"
+        },
+        "ornn_e": {
+            "name": "Ornn E",
+            "img": "https://cdn5.lolalytics.com/skill34/ornn_e.webp"
+        },
+        "ornn_r": {
+            "name": "Ornn R",
+            "img": "https://cdn5.lolalytics.com/skill34/ornn_r.webp"
+        },
+        "orianna_p": {
+            "name": "Orianna P",
+            "img": "https://cdn5.lolalytics.com/skill34/orianna_p.webp"
+        },
+        "orianna_q": {
+            "name": "Orianna Q",
+            "img": "https://cdn5.lolalytics.com/skill34/orianna_q.webp"
+        },
+        "orianna_w": {
+            "name": "Orianna W",
+            "img": "https://cdn5.lolalytics.com/skill34/orianna_w.webp"
+        },
+        "orianna_e": {
+            "name": "Orianna E",
+            "img": "https://cdn5.lolalytics.com/skill34/orianna_e.webp"
+        },
+        "orianna_r": {
+            "name": "Orianna R",
+            "img": "https://cdn5.lolalytics.com/skill34/orianna_r.webp"
+        },
+        "olaf_p": {
+            "name": "Olaf P",
+            "img": "https://cdn5.lolalytics.com/skill34/olaf_p.webp"
+        },
+        "olaf_q": {
+            "name": "Olaf Q",
+            "img": "https://cdn5.lolalytics.com/skill34/olaf_q.webp"
+        },
+        "olaf_w": {
+            "name": "Olaf W",
+            "img": "https://cdn5.lolalytics.com/skill34/olaf_w.webp"
+        },
+        "olaf_e": {
+            "name": "Olaf E",
+            "img": "https://cdn5.lolalytics.com/skill34/olaf_e.webp"
+        },
+        "olaf_r": {
+            "name": "Olaf R",
+            "img": "https://cdn5.lolalytics.com/skill34/olaf_r.webp"
+        },
+        "nunu_p": {
+            "name": "Nunu P",
+            "img": "https://cdn5.lolalytics.com/skill34/nunu_p.webp"
+        },
+        "nunu_q": {
+            "name": "Nunu Q",
+            "img": "https://cdn5.lolalytics.com/skill34/nunu_q.webp"
+        },
+        "nunu_w": {
+            "name": "Nunu W",
+            "img": "https://cdn5.lolalytics.com/skill34/nunu_w.webp"
+        },
+        "nunu_e": {
+            "name": "Nunu E",
+            "img": "https://cdn5.lolalytics.com/skill34/nunu_e.webp"
+        },
+        "nunu_r": {
+            "name": "Nunu R",
+            "img": "https://cdn5.lolalytics.com/skill34/nunu_r.webp"
+        },
+        "nocturne_p": {
+            "name": "Nocturne P",
+            "img": "https://cdn5.lolalytics.com/skill34/nocturne_p.webp"
+        },
+        "nocturne_q": {
+            "name": "Nocturne Q",
+            "img": "https://cdn5.lolalytics.com/skill34/nocturne_q.webp"
+        },
+        "nocturne_w": {
+            "name": "Nocturne W",
+            "img": "https://cdn5.lolalytics.com/skill34/nocturne_w.webp"
+        },
+        "nocturne_e": {
+            "name": "Nocturne E",
+            "img": "https://cdn5.lolalytics.com/skill34/nocturne_e.webp"
+        },
+        "nocturne_r": {
+            "name": "Nocturne R",
+            "img": "https://cdn5.lolalytics.com/skill34/nocturne_r.webp"
+        },
+        "nidalee_p": {
+            "name": "Nidalee P",
+            "img": "https://cdn5.lolalytics.com/skill34/nidalee_p.webp"
+        },
+        "nidalee_q": {
+            "name": "Nidalee Q",
+            "img": "https://cdn5.lolalytics.com/skill34/nidalee_q.webp"
+        },
+        "nidalee_w": {
+            "name": "Nidalee W",
+            "img": "https://cdn5.lolalytics.com/skill34/nidalee_w.webp"
+        },
+        "nidalee_e": {
+            "name": "Nidalee E",
+            "img": "https://cdn5.lolalytics.com/skill34/nidalee_e.webp"
+        },
+        "nidalee_r": {
+            "name": "Nidalee R",
+            "img": "https://cdn5.lolalytics.com/skill34/nidalee_r.webp"
+        },
+        "neeko_p": {
+            "name": "Neeko P",
+            "img": "https://cdn5.lolalytics.com/skill34/neeko_p.webp"
+        },
+        "neeko_q": {
+            "name": "Neeko Q",
+            "img": "https://cdn5.lolalytics.com/skill34/neeko_q.webp"
+        },
+        "neeko_w": {
+            "name": "Neeko W",
+            "img": "https://cdn5.lolalytics.com/skill34/neeko_w.webp"
+        },
+        "neeko_e": {
+            "name": "Neeko E",
+            "img": "https://cdn5.lolalytics.com/skill34/neeko_e.webp"
+        },
+        "neeko_r": {
+            "name": "Neeko R",
+            "img": "https://cdn5.lolalytics.com/skill34/neeko_r.webp"
+        },
+        "nautilus_p": {
+            "name": "Nautilus P",
+            "img": "https://cdn5.lolalytics.com/skill34/nautilus_p.webp"
+        },
+        "nautilus_q": {
+            "name": "Nautilus Q",
+            "img": "https://cdn5.lolalytics.com/skill34/nautilus_q.webp"
+        },
+        "nautilus_w": {
+            "name": "Nautilus W",
+            "img": "https://cdn5.lolalytics.com/skill34/nautilus_w.webp"
+        },
+        "nautilus_e": {
+            "name": "Nautilus E",
+            "img": "https://cdn5.lolalytics.com/skill34/nautilus_e.webp"
+        },
+        "nautilus_r": {
+            "name": "Nautilus R",
+            "img": "https://cdn5.lolalytics.com/skill34/nautilus_r.webp"
+        },
+        "nasus_p": {
+            "name": "Nasus P",
+            "img": "https://cdn5.lolalytics.com/skill34/nasus_p.webp"
+        },
+        "nasus_q": {
+            "name": "Nasus Q",
+            "img": "https://cdn5.lolalytics.com/skill34/nasus_q.webp"
+        },
+        "nasus_w": {
+            "name": "Nasus W",
+            "img": "https://cdn5.lolalytics.com/skill34/nasus_w.webp"
+        },
+        "nasus_e": {
+            "name": "Nasus E",
+            "img": "https://cdn5.lolalytics.com/skill34/nasus_e.webp"
+        },
+        "nasus_r": {
+            "name": "Nasus R",
+            "img": "https://cdn5.lolalytics.com/skill34/nasus_r.webp"
+        },
+        "nami_p": {
+            "name": "Nami P",
+            "img": "https://cdn5.lolalytics.com/skill34/nami_p.webp"
+        },
+        "nami_q": {
+            "name": "Nami Q",
+            "img": "https://cdn5.lolalytics.com/skill34/nami_q.webp"
+        },
+        "nami_w": {
+            "name": "Nami W",
+            "img": "https://cdn5.lolalytics.com/skill34/nami_w.webp"
+        },
+        "nami_e": {
+            "name": "Nami E",
+            "img": "https://cdn5.lolalytics.com/skill34/nami_e.webp"
+        },
+        "nami_r": {
+            "name": "Nami R",
+            "img": "https://cdn5.lolalytics.com/skill34/nami_r.webp"
+        },
+        "morgana_p": {
+            "name": "Morgana P",
+            "img": "https://cdn5.lolalytics.com/skill34/morgana_p.webp"
+        },
+        "morgana_q": {
+            "name": "Morgana Q",
+            "img": "https://cdn5.lolalytics.com/skill34/morgana_q.webp"
+        },
+        "morgana_w": {
+            "name": "Morgana W",
+            "img": "https://cdn5.lolalytics.com/skill34/morgana_w.webp"
+        },
+        "morgana_e": {
+            "name": "Morgana E",
+            "img": "https://cdn5.lolalytics.com/skill34/morgana_e.webp"
+        },
+        "morgana_r": {
+            "name": "Morgana R",
+            "img": "https://cdn5.lolalytics.com/skill34/morgana_r.webp"
+        },
+        "mordekaiser_p": {
+            "name": "Mordekaiser P",
+            "img": "https://cdn5.lolalytics.com/skill34/mordekaiser_p.webp"
+        },
+        "mordekaiser_q": {
+            "name": "Mordekaiser Q",
+            "img": "https://cdn5.lolalytics.com/skill34/mordekaiser_q.webp"
+        },
+        "mordekaiser_w": {
+            "name": "Mordekaiser W",
+            "img": "https://cdn5.lolalytics.com/skill34/mordekaiser_w.webp"
+        },
+        "mordekaiser_e": {
+            "name": "Mordekaiser E",
+            "img": "https://cdn5.lolalytics.com/skill34/mordekaiser_e.webp"
+        },
+        "mordekaiser_r": {
+            "name": "Mordekaiser R",
+            "img": "https://cdn5.lolalytics.com/skill34/mordekaiser_r.webp"
+        },
+        "missfortune_p": {
+            "name": "Miss Fortune P",
+            "img": "https://cdn5.lolalytics.com/skill34/missfortune_p.webp"
+        },
+        "missfortune_q": {
+            "name": "Miss Fortune Q",
+            "img": "https://cdn5.lolalytics.com/skill34/missfortune_q.webp"
+        },
+        "missfortune_w": {
+            "name": "Miss Fortune W",
+            "img": "https://cdn5.lolalytics.com/skill34/missfortune_w.webp"
+        },
+        "missfortune_e": {
+            "name": "Miss Fortune E",
+            "img": "https://cdn5.lolalytics.com/skill34/missfortune_e.webp"
+        },
+        "missfortune_r": {
+            "name": "Miss Fortune R",
+            "img": "https://cdn5.lolalytics.com/skill34/missfortune_r.webp"
+        },
+        "masteryi_p": {
+            "name": "Master Yi P",
+            "img": "https://cdn5.lolalytics.com/skill34/masteryi_p.webp"
+        },
+        "masteryi_q": {
+            "name": "Master Yi Q",
+            "img": "https://cdn5.lolalytics.com/skill34/masteryi_q.webp"
+        },
+        "masteryi_w": {
+            "name": "Master Yi W",
+            "img": "https://cdn5.lolalytics.com/skill34/masteryi_w.webp"
+        },
+        "masteryi_e": {
+            "name": "Master Yi E",
+            "img": "https://cdn5.lolalytics.com/skill34/masteryi_e.webp"
+        },
+        "masteryi_r": {
+            "name": "Master Yi R",
+            "img": "https://cdn5.lolalytics.com/skill34/masteryi_r.webp"
+        },
+        "maokai_p": {
+            "name": "Maokai P",
+            "img": "https://cdn5.lolalytics.com/skill34/maokai_p.webp"
+        },
+        "maokai_q": {
+            "name": "Maokai Q",
+            "img": "https://cdn5.lolalytics.com/skill34/maokai_q.webp"
+        },
+        "maokai_w": {
+            "name": "Maokai W",
+            "img": "https://cdn5.lolalytics.com/skill34/maokai_w.webp"
+        },
+        "maokai_e": {
+            "name": "Maokai E",
+            "img": "https://cdn5.lolalytics.com/skill34/maokai_e.webp"
+        },
+        "maokai_r": {
+            "name": "Maokai R",
+            "img": "https://cdn5.lolalytics.com/skill34/maokai_r.webp"
+        },
+        "malzahar_p": {
+            "name": "Malzahar P",
+            "img": "https://cdn5.lolalytics.com/skill34/malzahar_p.webp"
+        },
+        "malzahar_q": {
+            "name": "Malzahar Q",
+            "img": "https://cdn5.lolalytics.com/skill34/malzahar_q.webp"
+        },
+        "malzahar_w": {
+            "name": "Malzahar W",
+            "img": "https://cdn5.lolalytics.com/skill34/malzahar_w.webp"
+        },
+        "malzahar_e": {
+            "name": "Malzahar E",
+            "img": "https://cdn5.lolalytics.com/skill34/malzahar_e.webp"
+        },
+        "malzahar_r": {
+            "name": "Malzahar R",
+            "img": "https://cdn5.lolalytics.com/skill34/malzahar_r.webp"
+        },
+        "malphite_p": {
+            "name": "Malphite P",
+            "img": "https://cdn5.lolalytics.com/skill34/malphite_p.webp"
+        },
+        "malphite_q": {
+            "name": "Malphite Q",
+            "img": "https://cdn5.lolalytics.com/skill34/malphite_q.webp"
+        },
+        "malphite_w": {
+            "name": "Malphite W",
+            "img": "https://cdn5.lolalytics.com/skill34/malphite_w.webp"
+        },
+        "malphite_e": {
+            "name": "Malphite E",
+            "img": "https://cdn5.lolalytics.com/skill34/malphite_e.webp"
+        },
+        "malphite_r": {
+            "name": "Malphite R",
+            "img": "https://cdn5.lolalytics.com/skill34/malphite_r.webp"
+        },
+        "lux_p": {
+            "name": "Lux P",
+            "img": "https://cdn5.lolalytics.com/skill34/lux_p.webp"
+        },
+        "lux_q": {
+            "name": "Lux Q",
+            "img": "https://cdn5.lolalytics.com/skill34/lux_q.webp"
+        },
+        "lux_w": {
+            "name": "Lux W",
+            "img": "https://cdn5.lolalytics.com/skill34/lux_w.webp"
+        },
+        "lux_e": {
+            "name": "Lux E",
+            "img": "https://cdn5.lolalytics.com/skill34/lux_e.webp"
+        },
+        "lux_r": {
+            "name": "Lux R",
+            "img": "https://cdn5.lolalytics.com/skill34/lux_r.webp"
+        },
+        "lulu_p": {
+            "name": "Lulu P",
+            "img": "https://cdn5.lolalytics.com/skill34/lulu_p.webp"
+        },
+        "lulu_q": {
+            "name": "Lulu Q",
+            "img": "https://cdn5.lolalytics.com/skill34/lulu_q.webp"
+        },
+        "lulu_w": {
+            "name": "Lulu W",
+            "img": "https://cdn5.lolalytics.com/skill34/lulu_w.webp"
+        },
+        "lulu_e": {
+            "name": "Lulu E",
+            "img": "https://cdn5.lolalytics.com/skill34/lulu_e.webp"
+        },
+        "lulu_r": {
+            "name": "Lulu R",
+            "img": "https://cdn5.lolalytics.com/skill34/lulu_r.webp"
+        },
+        "lucian_p": {
+            "name": "Lucian P",
+            "img": "https://cdn5.lolalytics.com/skill34/lucian_p.webp"
+        },
+        "lucian_q": {
+            "name": "Lucian Q",
+            "img": "https://cdn5.lolalytics.com/skill34/lucian_q.webp"
+        },
+        "lucian_w": {
+            "name": "Lucian W",
+            "img": "https://cdn5.lolalytics.com/skill34/lucian_w.webp"
+        },
+        "lucian_e": {
+            "name": "Lucian E",
+            "img": "https://cdn5.lolalytics.com/skill34/lucian_e.webp"
+        },
+        "lucian_r": {
+            "name": "Lucian R",
+            "img": "https://cdn5.lolalytics.com/skill34/lucian_r.webp"
+        },
+        "lissandra_p": {
+            "name": "Lissandra P",
+            "img": "https://cdn5.lolalytics.com/skill34/lissandra_p.webp"
+        },
+        "lissandra_q": {
+            "name": "Lissandra Q",
+            "img": "https://cdn5.lolalytics.com/skill34/lissandra_q.webp"
+        },
+        "lissandra_w": {
+            "name": "Lissandra W",
+            "img": "https://cdn5.lolalytics.com/skill34/lissandra_w.webp"
+        },
+        "lissandra_e": {
+            "name": "Lissandra E",
+            "img": "https://cdn5.lolalytics.com/skill34/lissandra_e.webp"
+        },
+        "lissandra_r": {
+            "name": "Lissandra R",
+            "img": "https://cdn5.lolalytics.com/skill34/lissandra_r.webp"
+        },
+        "lillia_p": {
+            "name": "Lillia P",
+            "img": "https://cdn5.lolalytics.com/skill34/lillia_p.webp"
+        },
+        "lillia_q": {
+            "name": "Lillia Q",
+            "img": "https://cdn5.lolalytics.com/skill34/lillia_q.webp"
+        },
+        "lillia_w": {
+            "name": "Lillia W",
+            "img": "https://cdn5.lolalytics.com/skill34/lillia_w.webp"
+        },
+        "lillia_e": {
+            "name": "Lillia E",
+            "img": "https://cdn5.lolalytics.com/skill34/lillia_e.webp"
+        },
+        "lillia_r": {
+            "name": "Lillia R",
+            "img": "https://cdn5.lolalytics.com/skill34/lillia_r.webp"
+        },
+        "leona_p": {
+            "name": "Leona P",
+            "img": "https://cdn5.lolalytics.com/skill34/leona_p.webp"
+        },
+        "leona_q": {
+            "name": "Leona Q",
+            "img": "https://cdn5.lolalytics.com/skill34/leona_q.webp"
+        },
+        "leona_w": {
+            "name": "Leona W",
+            "img": "https://cdn5.lolalytics.com/skill34/leona_w.webp"
+        },
+        "leona_e": {
+            "name": "Leona E",
+            "img": "https://cdn5.lolalytics.com/skill34/leona_e.webp"
+        },
+        "leona_r": {
+            "name": "Leona R",
+            "img": "https://cdn5.lolalytics.com/skill34/leona_r.webp"
+        },
+        "leesin_p": {
+            "name": "Lee Sin P",
+            "img": "https://cdn5.lolalytics.com/skill34/leesin_p.webp"
+        },
+        "leesin_q": {
+            "name": "Lee Sin Q",
+            "img": "https://cdn5.lolalytics.com/skill34/leesin_q.webp"
+        },
+        "leesin_w": {
+            "name": "Lee Sin W",
+            "img": "https://cdn5.lolalytics.com/skill34/leesin_w.webp"
+        },
+        "leesin_e": {
+            "name": "Lee Sin E",
+            "img": "https://cdn5.lolalytics.com/skill34/leesin_e.webp"
+        },
+        "leesin_r": {
+            "name": "Lee Sin R",
+            "img": "https://cdn5.lolalytics.com/skill34/leesin_r.webp"
+        },
+        "leblanc_p": {
+            "name": "LeBlanc P",
+            "img": "https://cdn5.lolalytics.com/skill34/leblanc_p.webp"
+        },
+        "leblanc_q": {
+            "name": "LeBlanc Q",
+            "img": "https://cdn5.lolalytics.com/skill34/leblanc_q.webp"
+        },
+        "leblanc_w": {
+            "name": "LeBlanc W",
+            "img": "https://cdn5.lolalytics.com/skill34/leblanc_w.webp"
+        },
+        "leblanc_e": {
+            "name": "LeBlanc E",
+            "img": "https://cdn5.lolalytics.com/skill34/leblanc_e.webp"
+        },
+        "leblanc_r": {
+            "name": "LeBlanc R",
+            "img": "https://cdn5.lolalytics.com/skill34/leblanc_r.webp"
+        },
+        "kogmaw_p": {
+            "name": "Kog'Maw P",
+            "img": "https://cdn5.lolalytics.com/skill34/kogmaw_p.webp"
+        },
+        "kogmaw_q": {
+            "name": "Kog'Maw Q",
+            "img": "https://cdn5.lolalytics.com/skill34/kogmaw_q.webp"
+        },
+        "kogmaw_w": {
+            "name": "Kog'Maw W",
+            "img": "https://cdn5.lolalytics.com/skill34/kogmaw_w.webp"
+        },
+        "kogmaw_e": {
+            "name": "Kog'Maw E",
+            "img": "https://cdn5.lolalytics.com/skill34/kogmaw_e.webp"
+        },
+        "kogmaw_r": {
+            "name": "Kog'Maw R",
+            "img": "https://cdn5.lolalytics.com/skill34/kogmaw_r.webp"
+        },
+        "kled_p": {
+            "name": "Kled P",
+            "img": "https://cdn5.lolalytics.com/skill34/kled_p.webp"
+        },
+        "kled_q": {
+            "name": "Kled Q",
+            "img": "https://cdn5.lolalytics.com/skill34/kled_q.webp"
+        },
+        "kled_w": {
+            "name": "Kled W",
+            "img": "https://cdn5.lolalytics.com/skill34/kled_w.webp"
+        },
+        "kled_e": {
+            "name": "Kled E",
+            "img": "https://cdn5.lolalytics.com/skill34/kled_e.webp"
+        },
+        "kled_r": {
+            "name": "Kled R",
+            "img": "https://cdn5.lolalytics.com/skill34/kled_r.webp"
+        },
+        "kindred_p": {
+            "name": "Kindred P",
+            "img": "https://cdn5.lolalytics.com/skill34/kindred_p.webp"
+        },
+        "kindred_q": {
+            "name": "Kindred Q",
+            "img": "https://cdn5.lolalytics.com/skill34/kindred_q.webp"
+        },
+        "kindred_w": {
+            "name": "Kindred W",
+            "img": "https://cdn5.lolalytics.com/skill34/kindred_w.webp"
+        },
+        "kindred_e": {
+            "name": "Kindred E",
+            "img": "https://cdn5.lolalytics.com/skill34/kindred_e.webp"
+        },
+        "kindred_r": {
+            "name": "Kindred R",
+            "img": "https://cdn5.lolalytics.com/skill34/kindred_r.webp"
+        },
+        "khazix_p": {
+            "name": "Kha'Zix P",
+            "img": "https://cdn5.lolalytics.com/skill34/khazix_p.webp"
+        },
+        "khazix_q": {
+            "name": "Kha'Zix Q",
+            "img": "https://cdn5.lolalytics.com/skill34/khazix_q.webp"
+        },
+        "khazix_w": {
+            "name": "Kha'Zix W",
+            "img": "https://cdn5.lolalytics.com/skill34/khazix_w.webp"
+        },
+        "khazix_e": {
+            "name": "Kha'Zix E",
+            "img": "https://cdn5.lolalytics.com/skill34/khazix_e.webp"
+        },
+        "khazix_r": {
+            "name": "Kha'Zix R",
+            "img": "https://cdn5.lolalytics.com/skill34/khazix_r.webp"
+        },
+        "kennen_p": {
+            "name": "Kennen P",
+            "img": "https://cdn5.lolalytics.com/skill34/kennen_p.webp"
+        },
+        "kennen_q": {
+            "name": "Kennen Q",
+            "img": "https://cdn5.lolalytics.com/skill34/kennen_q.webp"
+        },
+        "kennen_w": {
+            "name": "Kennen W",
+            "img": "https://cdn5.lolalytics.com/skill34/kennen_w.webp"
+        },
+        "kennen_e": {
+            "name": "Kennen E",
+            "img": "https://cdn5.lolalytics.com/skill34/kennen_e.webp"
+        },
+        "kennen_r": {
+            "name": "Kennen R",
+            "img": "https://cdn5.lolalytics.com/skill34/kennen_r.webp"
+        },
+        "kayn_p": {
+            "name": "Kayn P",
+            "img": "https://cdn5.lolalytics.com/skill34/kayn_p.webp"
+        },
+        "kayn_q": {
+            "name": "Kayn Q",
+            "img": "https://cdn5.lolalytics.com/skill34/kayn_q.webp"
+        },
+        "kayn_w": {
+            "name": "Kayn W",
+            "img": "https://cdn5.lolalytics.com/skill34/kayn_w.webp"
+        },
+        "kayn_e": {
+            "name": "Kayn E",
+            "img": "https://cdn5.lolalytics.com/skill34/kayn_e.webp"
+        },
+        "kayn_r": {
+            "name": "Kayn R",
+            "img": "https://cdn5.lolalytics.com/skill34/kayn_r.webp"
+        },
+        "kayle_p": {
+            "name": "Kayle P",
+            "img": "https://cdn5.lolalytics.com/skill34/kayle_p.webp"
+        },
+        "kayle_q": {
+            "name": "Kayle Q",
+            "img": "https://cdn5.lolalytics.com/skill34/kayle_q.webp"
+        },
+        "kayle_w": {
+            "name": "Kayle W",
+            "img": "https://cdn5.lolalytics.com/skill34/kayle_w.webp"
+        },
+        "kayle_e": {
+            "name": "Kayle E",
+            "img": "https://cdn5.lolalytics.com/skill34/kayle_e.webp"
+        },
+        "kayle_r": {
+            "name": "Kayle R",
+            "img": "https://cdn5.lolalytics.com/skill34/kayle_r.webp"
+        },
+        "katarina_p": {
+            "name": "Katarina P",
+            "img": "https://cdn5.lolalytics.com/skill34/katarina_p.webp"
+        },
+        "katarina_q": {
+            "name": "Katarina Q",
+            "img": "https://cdn5.lolalytics.com/skill34/katarina_q.webp"
+        },
+        "katarina_w": {
+            "name": "Katarina W",
+            "img": "https://cdn5.lolalytics.com/skill34/katarina_w.webp"
+        },
+        "katarina_e": {
+            "name": "Katarina E",
+            "img": "https://cdn5.lolalytics.com/skill34/katarina_e.webp"
+        },
+        "katarina_r": {
+            "name": "Katarina R",
+            "img": "https://cdn5.lolalytics.com/skill34/katarina_r.webp"
+        },
+        "kassadin_p": {
+            "name": "Kassadin P",
+            "img": "https://cdn5.lolalytics.com/skill34/kassadin_p.webp"
+        },
+        "kassadin_q": {
+            "name": "Kassadin Q",
+            "img": "https://cdn5.lolalytics.com/skill34/kassadin_q.webp"
+        },
+        "kassadin_w": {
+            "name": "Kassadin W",
+            "img": "https://cdn5.lolalytics.com/skill34/kassadin_w.webp"
+        },
+        "kassadin_e": {
+            "name": "Kassadin E",
+            "img": "https://cdn5.lolalytics.com/skill34/kassadin_e.webp"
+        },
+        "kassadin_r": {
+            "name": "Kassadin R",
+            "img": "https://cdn5.lolalytics.com/skill34/kassadin_r.webp"
+        },
+        "karthus_p": {
+            "name": "Karthus P",
+            "img": "https://cdn5.lolalytics.com/skill34/karthus_p.webp"
+        },
+        "karthus_q": {
+            "name": "Karthus Q",
+            "img": "https://cdn5.lolalytics.com/skill34/karthus_q.webp"
+        },
+        "karthus_w": {
+            "name": "Karthus W",
+            "img": "https://cdn5.lolalytics.com/skill34/karthus_w.webp"
+        },
+        "karthus_e": {
+            "name": "Karthus E",
+            "img": "https://cdn5.lolalytics.com/skill34/karthus_e.webp"
+        },
+        "karthus_r": {
+            "name": "Karthus R",
+            "img": "https://cdn5.lolalytics.com/skill34/karthus_r.webp"
+        },
+        "karma_p": {
+            "name": "Karma P",
+            "img": "https://cdn5.lolalytics.com/skill34/karma_p.webp"
+        },
+        "karma_q": {
+            "name": "Karma Q",
+            "img": "https://cdn5.lolalytics.com/skill34/karma_q.webp"
+        },
+        "karma_w": {
+            "name": "Karma W",
+            "img": "https://cdn5.lolalytics.com/skill34/karma_w.webp"
+        },
+        "karma_e": {
+            "name": "Karma E",
+            "img": "https://cdn5.lolalytics.com/skill34/karma_e.webp"
+        },
+        "karma_r": {
+            "name": "Karma R",
+            "img": "https://cdn5.lolalytics.com/skill34/karma_r.webp"
+        },
+        "kalista_p": {
+            "name": "Kalista P",
+            "img": "https://cdn5.lolalytics.com/skill34/kalista_p.webp"
+        },
+        "kalista_q": {
+            "name": "Kalista Q",
+            "img": "https://cdn5.lolalytics.com/skill34/kalista_q.webp"
+        },
+        "kalista_w": {
+            "name": "Kalista W",
+            "img": "https://cdn5.lolalytics.com/skill34/kalista_w.webp"
+        },
+        "kalista_e": {
+            "name": "Kalista E",
+            "img": "https://cdn5.lolalytics.com/skill34/kalista_e.webp"
+        },
+        "kalista_r": {
+            "name": "Kalista R",
+            "img": "https://cdn5.lolalytics.com/skill34/kalista_r.webp"
+        },
+        "kaisa_p": {
+            "name": "Kai'Sa P",
+            "img": "https://cdn5.lolalytics.com/skill34/kaisa_p.webp"
+        },
+        "kaisa_q": {
+            "name": "Kai'Sa Q",
+            "img": "https://cdn5.lolalytics.com/skill34/kaisa_q.webp"
+        },
+        "kaisa_w": {
+            "name": "Kai'Sa W",
+            "img": "https://cdn5.lolalytics.com/skill34/kaisa_w.webp"
+        },
+        "kaisa_e": {
+            "name": "Kai'Sa E",
+            "img": "https://cdn5.lolalytics.com/skill34/kaisa_e.webp"
+        },
+        "kaisa_r": {
+            "name": "Kai'Sa R",
+            "img": "https://cdn5.lolalytics.com/skill34/kaisa_r.webp"
+        },
+        "jinx_p": {
+            "name": "Jinx P",
+            "img": "https://cdn5.lolalytics.com/skill34/jinx_p.webp"
+        },
+        "jinx_q": {
+            "name": "Jinx Q",
+            "img": "https://cdn5.lolalytics.com/skill34/jinx_q.webp"
+        },
+        "jinx_w": {
+            "name": "Jinx W",
+            "img": "https://cdn5.lolalytics.com/skill34/jinx_w.webp"
+        },
+        "jinx_e": {
+            "name": "Jinx E",
+            "img": "https://cdn5.lolalytics.com/skill34/jinx_e.webp"
+        },
+        "jinx_r": {
+            "name": "Jinx R",
+            "img": "https://cdn5.lolalytics.com/skill34/jinx_r.webp"
+        },
+        "jhin_p": {
+            "name": "Jhin P",
+            "img": "https://cdn5.lolalytics.com/skill34/jhin_p.webp"
+        },
+        "jhin_q": {
+            "name": "Jhin Q",
+            "img": "https://cdn5.lolalytics.com/skill34/jhin_q.webp"
+        },
+        "jhin_w": {
+            "name": "Jhin W",
+            "img": "https://cdn5.lolalytics.com/skill34/jhin_w.webp"
+        },
+        "jhin_e": {
+            "name": "Jhin E",
+            "img": "https://cdn5.lolalytics.com/skill34/jhin_e.webp"
+        },
+        "jhin_r": {
+            "name": "Jhin R",
+            "img": "https://cdn5.lolalytics.com/skill34/jhin_r.webp"
+        },
+        "jayce_p": {
+            "name": "Jayce P",
+            "img": "https://cdn5.lolalytics.com/skill34/jayce_p.webp"
+        },
+        "jayce_q": {
+            "name": "Jayce Q",
+            "img": "https://cdn5.lolalytics.com/skill34/jayce_q.webp"
+        },
+        "jayce_w": {
+            "name": "Jayce W",
+            "img": "https://cdn5.lolalytics.com/skill34/jayce_w.webp"
+        },
+        "jayce_e": {
+            "name": "Jayce E",
+            "img": "https://cdn5.lolalytics.com/skill34/jayce_e.webp"
+        },
+        "jayce_r": {
+            "name": "Jayce R",
+            "img": "https://cdn5.lolalytics.com/skill34/jayce_r.webp"
+        },
+        "jax_p": {
+            "name": "Jax P",
+            "img": "https://cdn5.lolalytics.com/skill34/jax_p.webp"
+        },
+        "jax_q": {
+            "name": "Jax Q",
+            "img": "https://cdn5.lolalytics.com/skill34/jax_q.webp"
+        },
+        "jax_w": {
+            "name": "Jax W",
+            "img": "https://cdn5.lolalytics.com/skill34/jax_w.webp"
+        },
+        "jax_e": {
+            "name": "Jax E",
+            "img": "https://cdn5.lolalytics.com/skill34/jax_e.webp"
+        },
+        "jax_r": {
+            "name": "Jax R",
+            "img": "https://cdn5.lolalytics.com/skill34/jax_r.webp"
+        },
+        "jarvaniv_p": {
+            "name": "Jarvan IV P",
+            "img": "https://cdn5.lolalytics.com/skill34/jarvaniv_p.webp"
+        },
+        "jarvaniv_q": {
+            "name": "Jarvan IV Q",
+            "img": "https://cdn5.lolalytics.com/skill34/jarvaniv_q.webp"
+        },
+        "jarvaniv_w": {
+            "name": "Jarvan IV W",
+            "img": "https://cdn5.lolalytics.com/skill34/jarvaniv_w.webp"
+        },
+        "jarvaniv_e": {
+            "name": "Jarvan IV E",
+            "img": "https://cdn5.lolalytics.com/skill34/jarvaniv_e.webp"
+        },
+        "jarvaniv_r": {
+            "name": "Jarvan IV R",
+            "img": "https://cdn5.lolalytics.com/skill34/jarvaniv_r.webp"
+        },
+        "janna_p": {
+            "name": "Janna P",
+            "img": "https://cdn5.lolalytics.com/skill34/janna_p.webp"
+        },
+        "janna_q": {
+            "name": "Janna Q",
+            "img": "https://cdn5.lolalytics.com/skill34/janna_q.webp"
+        },
+        "janna_w": {
+            "name": "Janna W",
+            "img": "https://cdn5.lolalytics.com/skill34/janna_w.webp"
+        },
+        "janna_e": {
+            "name": "Janna E",
+            "img": "https://cdn5.lolalytics.com/skill34/janna_e.webp"
+        },
+        "janna_r": {
+            "name": "Janna R",
+            "img": "https://cdn5.lolalytics.com/skill34/janna_r.webp"
+        },
+        "ivern_p": {
+            "name": "Ivern P",
+            "img": "https://cdn5.lolalytics.com/skill34/ivern_p.webp"
+        },
+        "ivern_q": {
+            "name": "Ivern Q",
+            "img": "https://cdn5.lolalytics.com/skill34/ivern_q.webp"
+        },
+        "ivern_w": {
+            "name": "Ivern W",
+            "img": "https://cdn5.lolalytics.com/skill34/ivern_w.webp"
+        },
+        "ivern_e": {
+            "name": "Ivern E",
+            "img": "https://cdn5.lolalytics.com/skill34/ivern_e.webp"
+        },
+        "ivern_r": {
+            "name": "Ivern R",
+            "img": "https://cdn5.lolalytics.com/skill34/ivern_r.webp"
+        },
+        "irelia_p": {
+            "name": "Irelia P",
+            "img": "https://cdn5.lolalytics.com/skill34/irelia_p.webp"
+        },
+        "irelia_q": {
+            "name": "Irelia Q",
+            "img": "https://cdn5.lolalytics.com/skill34/irelia_q.webp"
+        },
+        "irelia_w": {
+            "name": "Irelia W",
+            "img": "https://cdn5.lolalytics.com/skill34/irelia_w.webp"
+        },
+        "irelia_e": {
+            "name": "Irelia E",
+            "img": "https://cdn5.lolalytics.com/skill34/irelia_e.webp"
+        },
+        "irelia_r": {
+            "name": "Irelia R",
+            "img": "https://cdn5.lolalytics.com/skill34/irelia_r.webp"
+        },
+        "illaoi_p": {
+            "name": "Illaoi P",
+            "img": "https://cdn5.lolalytics.com/skill34/illaoi_p.webp"
+        },
+        "illaoi_q": {
+            "name": "Illaoi Q",
+            "img": "https://cdn5.lolalytics.com/skill34/illaoi_q.webp"
+        },
+        "illaoi_w": {
+            "name": "Illaoi W",
+            "img": "https://cdn5.lolalytics.com/skill34/illaoi_w.webp"
+        },
+        "illaoi_e": {
+            "name": "Illaoi E",
+            "img": "https://cdn5.lolalytics.com/skill34/illaoi_e.webp"
+        },
+        "illaoi_r": {
+            "name": "Illaoi R",
+            "img": "https://cdn5.lolalytics.com/skill34/illaoi_r.webp"
+        },
+        "heimerdinger_p": {
+            "name": "Heimerdinger P",
+            "img": "https://cdn5.lolalytics.com/skill34/heimerdinger_p.webp"
+        },
+        "heimerdinger_q": {
+            "name": "Heimerdinger Q",
+            "img": "https://cdn5.lolalytics.com/skill34/heimerdinger_q.webp"
+        },
+        "heimerdinger_w": {
+            "name": "Heimerdinger W",
+            "img": "https://cdn5.lolalytics.com/skill34/heimerdinger_w.webp"
+        },
+        "heimerdinger_e": {
+            "name": "Heimerdinger E",
+            "img": "https://cdn5.lolalytics.com/skill34/heimerdinger_e.webp"
+        },
+        "heimerdinger_r": {
+            "name": "Heimerdinger R",
+            "img": "https://cdn5.lolalytics.com/skill34/heimerdinger_r.webp"
+        },
+        "hecarim_p": {
+            "name": "Hecarim P",
+            "img": "https://cdn5.lolalytics.com/skill34/hecarim_p.webp"
+        },
+        "hecarim_q": {
+            "name": "Hecarim Q",
+            "img": "https://cdn5.lolalytics.com/skill34/hecarim_q.webp"
+        },
+        "hecarim_w": {
+            "name": "Hecarim W",
+            "img": "https://cdn5.lolalytics.com/skill34/hecarim_w.webp"
+        },
+        "hecarim_e": {
+            "name": "Hecarim E",
+            "img": "https://cdn5.lolalytics.com/skill34/hecarim_e.webp"
+        },
+        "hecarim_r": {
+            "name": "Hecarim R",
+            "img": "https://cdn5.lolalytics.com/skill34/hecarim_r.webp"
+        },
+        "gwen_p": {
+            "name": "Gwen P",
+            "img": "https://cdn5.lolalytics.com/skill34/gwen_p.webp"
+        },
+        "gwen_q": {
+            "name": "Gwen Q",
+            "img": "https://cdn5.lolalytics.com/skill34/gwen_q.webp"
+        },
+        "gwen_w": {
+            "name": "Gwen W",
+            "img": "https://cdn5.lolalytics.com/skill34/gwen_w.webp"
+        },
+        "gwen_e": {
+            "name": "Gwen E",
+            "img": "https://cdn5.lolalytics.com/skill34/gwen_e.webp"
+        },
+        "gwen_r": {
+            "name": "Gwen R",
+            "img": "https://cdn5.lolalytics.com/skill34/gwen_r.webp"
+        },
+        "graves_p": {
+            "name": "Graves P",
+            "img": "https://cdn5.lolalytics.com/skill34/graves_p.webp"
+        },
+        "graves_q": {
+            "name": "Graves Q",
+            "img": "https://cdn5.lolalytics.com/skill34/graves_q.webp"
+        },
+        "graves_w": {
+            "name": "Graves W",
+            "img": "https://cdn5.lolalytics.com/skill34/graves_w.webp"
+        },
+        "graves_e": {
+            "name": "Graves E",
+            "img": "https://cdn5.lolalytics.com/skill34/graves_e.webp"
+        },
+        "graves_r": {
+            "name": "Graves R",
+            "img": "https://cdn5.lolalytics.com/skill34/graves_r.webp"
+        },
+        "gragas_p": {
+            "name": "Gragas P",
+            "img": "https://cdn5.lolalytics.com/skill34/gragas_p.webp"
+        },
+        "gragas_q": {
+            "name": "Gragas Q",
+            "img": "https://cdn5.lolalytics.com/skill34/gragas_q.webp"
+        },
+        "gragas_w": {
+            "name": "Gragas W",
+            "img": "https://cdn5.lolalytics.com/skill34/gragas_w.webp"
+        },
+        "gragas_e": {
+            "name": "Gragas E",
+            "img": "https://cdn5.lolalytics.com/skill34/gragas_e.webp"
+        },
+        "gragas_r": {
+            "name": "Gragas R",
+            "img": "https://cdn5.lolalytics.com/skill34/gragas_r.webp"
+        },
+        "gnar_p": {
+            "name": "Gnar P",
+            "img": "https://cdn5.lolalytics.com/skill34/gnar_p.webp"
+        },
+        "gnar_q": {
+            "name": "Gnar Q",
+            "img": "https://cdn5.lolalytics.com/skill34/gnar_q.webp"
+        },
+        "gnar_w": {
+            "name": "Gnar W",
+            "img": "https://cdn5.lolalytics.com/skill34/gnar_w.webp"
+        },
+        "gnar_e": {
+            "name": "Gnar E",
+            "img": "https://cdn5.lolalytics.com/skill34/gnar_e.webp"
+        },
+        "gnar_r": {
+            "name": "Gnar R",
+            "img": "https://cdn5.lolalytics.com/skill34/gnar_r.webp"
+        },
+        "garen_p": {
+            "name": "Garen P",
+            "img": "https://cdn5.lolalytics.com/skill34/garen_p.webp"
+        },
+        "garen_q": {
+            "name": "Garen Q",
+            "img": "https://cdn5.lolalytics.com/skill34/garen_q.webp"
+        },
+        "garen_w": {
+            "name": "Garen W",
+            "img": "https://cdn5.lolalytics.com/skill34/garen_w.webp"
+        },
+        "garen_e": {
+            "name": "Garen E",
+            "img": "https://cdn5.lolalytics.com/skill34/garen_e.webp"
+        },
+        "garen_r": {
+            "name": "Garen R",
+            "img": "https://cdn5.lolalytics.com/skill34/garen_r.webp"
+        },
+        "gangplank_p": {
+            "name": "Gangplank P",
+            "img": "https://cdn5.lolalytics.com/skill34/gangplank_p.webp"
+        },
+        "gangplank_q": {
+            "name": "Gangplank Q",
+            "img": "https://cdn5.lolalytics.com/skill34/gangplank_q.webp"
+        },
+        "gangplank_w": {
+            "name": "Gangplank W",
+            "img": "https://cdn5.lolalytics.com/skill34/gangplank_w.webp"
+        },
+        "gangplank_e": {
+            "name": "Gangplank E",
+            "img": "https://cdn5.lolalytics.com/skill34/gangplank_e.webp"
+        },
+        "gangplank_r": {
+            "name": "Gangplank R",
+            "img": "https://cdn5.lolalytics.com/skill34/gangplank_r.webp"
+        },
+        "galio_p": {
+            "name": "Galio P",
+            "img": "https://cdn5.lolalytics.com/skill34/galio_p.webp"
+        },
+        "galio_q": {
+            "name": "Galio Q",
+            "img": "https://cdn5.lolalytics.com/skill34/galio_q.webp"
+        },
+        "galio_w": {
+            "name": "Galio W",
+            "img": "https://cdn5.lolalytics.com/skill34/galio_w.webp"
+        },
+        "galio_e": {
+            "name": "Galio E",
+            "img": "https://cdn5.lolalytics.com/skill34/galio_e.webp"
+        },
+        "galio_r": {
+            "name": "Galio R",
+            "img": "https://cdn5.lolalytics.com/skill34/galio_r.webp"
+        },
+        "fizz_p": {
+            "name": "Fizz P",
+            "img": "https://cdn5.lolalytics.com/skill34/fizz_p.webp"
+        },
+        "fizz_q": {
+            "name": "Fizz Q",
+            "img": "https://cdn5.lolalytics.com/skill34/fizz_q.webp"
+        },
+        "fizz_w": {
+            "name": "Fizz W",
+            "img": "https://cdn5.lolalytics.com/skill34/fizz_w.webp"
+        },
+        "fizz_e": {
+            "name": "Fizz E",
+            "img": "https://cdn5.lolalytics.com/skill34/fizz_e.webp"
+        },
+        "fizz_r": {
+            "name": "Fizz R",
+            "img": "https://cdn5.lolalytics.com/skill34/fizz_r.webp"
+        },
+        "fiora_p": {
+            "name": "Fiora P",
+            "img": "https://cdn5.lolalytics.com/skill34/fiora_p.webp"
+        },
+        "fiora_q": {
+            "name": "Fiora Q",
+            "img": "https://cdn5.lolalytics.com/skill34/fiora_q.webp"
+        },
+        "fiora_w": {
+            "name": "Fiora W",
+            "img": "https://cdn5.lolalytics.com/skill34/fiora_w.webp"
+        },
+        "fiora_e": {
+            "name": "Fiora E",
+            "img": "https://cdn5.lolalytics.com/skill34/fiora_e.webp"
+        },
+        "fiora_r": {
+            "name": "Fiora R",
+            "img": "https://cdn5.lolalytics.com/skill34/fiora_r.webp"
+        },
+        "fiddlesticks_p": {
+            "name": "Fiddlesticks P",
+            "img": "https://cdn5.lolalytics.com/skill34/fiddlesticks_p.webp"
+        },
+        "fiddlesticks_q": {
+            "name": "Fiddlesticks Q",
+            "img": "https://cdn5.lolalytics.com/skill34/fiddlesticks_q.webp"
+        },
+        "fiddlesticks_w": {
+            "name": "Fiddlesticks W",
+            "img": "https://cdn5.lolalytics.com/skill34/fiddlesticks_w.webp"
+        },
+        "fiddlesticks_e": {
+            "name": "Fiddlesticks E",
+            "img": "https://cdn5.lolalytics.com/skill34/fiddlesticks_e.webp"
+        },
+        "fiddlesticks_r": {
+            "name": "Fiddlesticks R",
+            "img": "https://cdn5.lolalytics.com/skill34/fiddlesticks_r.webp"
+        },
+        "ezreal_p": {
+            "name": "Ezreal P",
+            "img": "https://cdn5.lolalytics.com/skill34/ezreal_p.webp"
+        },
+        "ezreal_q": {
+            "name": "Ezreal Q",
+            "img": "https://cdn5.lolalytics.com/skill34/ezreal_q.webp"
+        },
+        "ezreal_w": {
+            "name": "Ezreal W",
+            "img": "https://cdn5.lolalytics.com/skill34/ezreal_w.webp"
+        },
+        "ezreal_e": {
+            "name": "Ezreal E",
+            "img": "https://cdn5.lolalytics.com/skill34/ezreal_e.webp"
+        },
+        "ezreal_r": {
+            "name": "Ezreal R",
+            "img": "https://cdn5.lolalytics.com/skill34/ezreal_r.webp"
+        },
+        "evelynn_p": {
+            "name": "Evelynn P",
+            "img": "https://cdn5.lolalytics.com/skill34/evelynn_p.webp"
+        },
+        "evelynn_q": {
+            "name": "Evelynn Q",
+            "img": "https://cdn5.lolalytics.com/skill34/evelynn_q.webp"
+        },
+        "evelynn_w": {
+            "name": "Evelynn W",
+            "img": "https://cdn5.lolalytics.com/skill34/evelynn_w.webp"
+        },
+        "evelynn_e": {
+            "name": "Evelynn E",
+            "img": "https://cdn5.lolalytics.com/skill34/evelynn_e.webp"
+        },
+        "evelynn_r": {
+            "name": "Evelynn R",
+            "img": "https://cdn5.lolalytics.com/skill34/evelynn_r.webp"
+        },
+        "elise_p": {
+            "name": "Elise P",
+            "img": "https://cdn5.lolalytics.com/skill34/elise_p.webp"
+        },
+        "elise_q": {
+            "name": "Elise Q",
+            "img": "https://cdn5.lolalytics.com/skill34/elise_q.webp"
+        },
+        "elise_w": {
+            "name": "Elise W",
+            "img": "https://cdn5.lolalytics.com/skill34/elise_w.webp"
+        },
+        "elise_e": {
+            "name": "Elise E",
+            "img": "https://cdn5.lolalytics.com/skill34/elise_e.webp"
+        },
+        "elise_r": {
+            "name": "Elise R",
+            "img": "https://cdn5.lolalytics.com/skill34/elise_r.webp"
+        },
+        "ekko_p": {
+            "name": "Ekko P",
+            "img": "https://cdn5.lolalytics.com/skill34/ekko_p.webp"
+        },
+        "ekko_q": {
+            "name": "Ekko Q",
+            "img": "https://cdn5.lolalytics.com/skill34/ekko_q.webp"
+        },
+        "ekko_w": {
+            "name": "Ekko W",
+            "img": "https://cdn5.lolalytics.com/skill34/ekko_w.webp"
+        },
+        "ekko_e": {
+            "name": "Ekko E",
+            "img": "https://cdn5.lolalytics.com/skill34/ekko_e.webp"
+        },
+        "ekko_r": {
+            "name": "Ekko R",
+            "img": "https://cdn5.lolalytics.com/skill34/ekko_r.webp"
+        },
+        "draven_p": {
+            "name": "Draven P",
+            "img": "https://cdn5.lolalytics.com/skill34/draven_p.webp"
+        },
+        "draven_q": {
+            "name": "Draven Q",
+            "img": "https://cdn5.lolalytics.com/skill34/draven_q.webp"
+        },
+        "draven_w": {
+            "name": "Draven W",
+            "img": "https://cdn5.lolalytics.com/skill34/draven_w.webp"
+        },
+        "draven_e": {
+            "name": "Draven E",
+            "img": "https://cdn5.lolalytics.com/skill34/draven_e.webp"
+        },
+        "draven_r": {
+            "name": "Draven R",
+            "img": "https://cdn5.lolalytics.com/skill34/draven_r.webp"
+        },
+        "drmundo_p": {
+            "name": "Dr. Mundo P",
+            "img": "https://cdn5.lolalytics.com/skill34/drmundo_p.webp"
+        },
+        "drmundo_q": {
+            "name": "Dr. Mundo Q",
+            "img": "https://cdn5.lolalytics.com/skill34/drmundo_q.webp"
+        },
+        "drmundo_w": {
+            "name": "Dr. Mundo W",
+            "img": "https://cdn5.lolalytics.com/skill34/drmundo_w.webp"
+        },
+        "drmundo_e": {
+            "name": "Dr. Mundo E",
+            "img": "https://cdn5.lolalytics.com/skill34/drmundo_e.webp"
+        },
+        "drmundo_r": {
+            "name": "Dr. Mundo R",
+            "img": "https://cdn5.lolalytics.com/skill34/drmundo_r.webp"
+        },
+        "diana_p": {
+            "name": "Diana P",
+            "img": "https://cdn5.lolalytics.com/skill34/diana_p.webp"
+        },
+        "diana_q": {
+            "name": "Diana Q",
+            "img": "https://cdn5.lolalytics.com/skill34/diana_q.webp"
+        },
+        "diana_w": {
+            "name": "Diana W",
+            "img": "https://cdn5.lolalytics.com/skill34/diana_w.webp"
+        },
+        "diana_e": {
+            "name": "Diana E",
+            "img": "https://cdn5.lolalytics.com/skill34/diana_e.webp"
+        },
+        "diana_r": {
+            "name": "Diana R",
+            "img": "https://cdn5.lolalytics.com/skill34/diana_r.webp"
+        },
+        "darius_p": {
+            "name": "Darius P",
+            "img": "https://cdn5.lolalytics.com/skill34/darius_p.webp"
+        },
+        "darius_q": {
+            "name": "Darius Q",
+            "img": "https://cdn5.lolalytics.com/skill34/darius_q.webp"
+        },
+        "darius_w": {
+            "name": "Darius W",
+            "img": "https://cdn5.lolalytics.com/skill34/darius_w.webp"
+        },
+        "darius_e": {
+            "name": "Darius E",
+            "img": "https://cdn5.lolalytics.com/skill34/darius_e.webp"
+        },
+        "darius_r": {
+            "name": "Darius R",
+            "img": "https://cdn5.lolalytics.com/skill34/darius_r.webp"
+        },
+        "corki_p": {
+            "name": "Corki P",
+            "img": "https://cdn5.lolalytics.com/skill34/corki_p.webp"
+        },
+        "corki_q": {
+            "name": "Corki Q",
+            "img": "https://cdn5.lolalytics.com/skill34/corki_q.webp"
+        },
+        "corki_w": {
+            "name": "Corki W",
+            "img": "https://cdn5.lolalytics.com/skill34/corki_w.webp"
+        },
+        "corki_e": {
+            "name": "Corki E",
+            "img": "https://cdn5.lolalytics.com/skill34/corki_e.webp"
+        },
+        "corki_r": {
+            "name": "Corki R",
+            "img": "https://cdn5.lolalytics.com/skill34/corki_r.webp"
+        },
+        "chogath_p": {
+            "name": "Cho'Gath P",
+            "img": "https://cdn5.lolalytics.com/skill34/chogath_p.webp"
+        },
+        "chogath_q": {
+            "name": "Cho'Gath Q",
+            "img": "https://cdn5.lolalytics.com/skill34/chogath_q.webp"
+        },
+        "chogath_w": {
+            "name": "Cho'Gath W",
+            "img": "https://cdn5.lolalytics.com/skill34/chogath_w.webp"
+        },
+        "chogath_e": {
+            "name": "Cho'Gath E",
+            "img": "https://cdn5.lolalytics.com/skill34/chogath_e.webp"
+        },
+        "chogath_r": {
+            "name": "Cho'Gath R",
+            "img": "https://cdn5.lolalytics.com/skill34/chogath_r.webp"
+        },
+        "cassiopeia_p": {
+            "name": "Cassiopeia P",
+            "img": "https://cdn5.lolalytics.com/skill34/cassiopeia_p.webp"
+        },
+        "cassiopeia_q": {
+            "name": "Cassiopeia Q",
+            "img": "https://cdn5.lolalytics.com/skill34/cassiopeia_q.webp"
+        },
+        "cassiopeia_w": {
+            "name": "Cassiopeia W",
+            "img": "https://cdn5.lolalytics.com/skill34/cassiopeia_w.webp"
+        },
+        "cassiopeia_e": {
+            "name": "Cassiopeia E",
+            "img": "https://cdn5.lolalytics.com/skill34/cassiopeia_e.webp"
+        },
+        "cassiopeia_r": {
+            "name": "Cassiopeia R",
+            "img": "https://cdn5.lolalytics.com/skill34/cassiopeia_r.webp"
+        },
+        "camille_p": {
+            "name": "Camille P",
+            "img": "https://cdn5.lolalytics.com/skill34/camille_p.webp"
+        },
+        "camille_q": {
+            "name": "Camille Q",
+            "img": "https://cdn5.lolalytics.com/skill34/camille_q.webp"
+        },
+        "camille_w": {
+            "name": "Camille W",
+            "img": "https://cdn5.lolalytics.com/skill34/camille_w.webp"
+        },
+        "camille_e": {
+            "name": "Camille E",
+            "img": "https://cdn5.lolalytics.com/skill34/camille_e.webp"
+        },
+        "camille_r": {
+            "name": "Camille R",
+            "img": "https://cdn5.lolalytics.com/skill34/camille_r.webp"
+        },
+        "caitlyn_p": {
+            "name": "Caitlyn P",
+            "img": "https://cdn5.lolalytics.com/skill34/caitlyn_p.webp"
+        },
+        "caitlyn_q": {
+            "name": "Caitlyn Q",
+            "img": "https://cdn5.lolalytics.com/skill34/caitlyn_q.webp"
+        },
+        "caitlyn_w": {
+            "name": "Caitlyn W",
+            "img": "https://cdn5.lolalytics.com/skill34/caitlyn_w.webp"
+        },
+        "caitlyn_e": {
+            "name": "Caitlyn E",
+            "img": "https://cdn5.lolalytics.com/skill34/caitlyn_e.webp"
+        },
+        "caitlyn_r": {
+            "name": "Caitlyn R",
+            "img": "https://cdn5.lolalytics.com/skill34/caitlyn_r.webp"
+        },
+        "braum_p": {
+            "name": "Braum P",
+            "img": "https://cdn5.lolalytics.com/skill34/braum_p.webp"
+        },
+        "braum_q": {
+            "name": "Braum Q",
+            "img": "https://cdn5.lolalytics.com/skill34/braum_q.webp"
+        },
+        "braum_w": {
+            "name": "Braum W",
+            "img": "https://cdn5.lolalytics.com/skill34/braum_w.webp"
+        },
+        "braum_e": {
+            "name": "Braum E",
+            "img": "https://cdn5.lolalytics.com/skill34/braum_e.webp"
+        },
+        "braum_r": {
+            "name": "Braum R",
+            "img": "https://cdn5.lolalytics.com/skill34/braum_r.webp"
+        },
+        "brand_p": {
+            "name": "Brand P",
+            "img": "https://cdn5.lolalytics.com/skill34/brand_p.webp"
+        },
+        "brand_q": {
+            "name": "Brand Q",
+            "img": "https://cdn5.lolalytics.com/skill34/brand_q.webp"
+        },
+        "brand_w": {
+            "name": "Brand W",
+            "img": "https://cdn5.lolalytics.com/skill34/brand_w.webp"
+        },
+        "brand_e": {
+            "name": "Brand E",
+            "img": "https://cdn5.lolalytics.com/skill34/brand_e.webp"
+        },
+        "brand_r": {
+            "name": "Brand R",
+            "img": "https://cdn5.lolalytics.com/skill34/brand_r.webp"
+        },
+        "blitzcrank_p": {
+            "name": "Blitzcrank P",
+            "img": "https://cdn5.lolalytics.com/skill34/blitzcrank_p.webp"
+        },
+        "blitzcrank_q": {
+            "name": "Blitzcrank Q",
+            "img": "https://cdn5.lolalytics.com/skill34/blitzcrank_q.webp"
+        },
+        "blitzcrank_w": {
+            "name": "Blitzcrank W",
+            "img": "https://cdn5.lolalytics.com/skill34/blitzcrank_w.webp"
+        },
+        "blitzcrank_e": {
+            "name": "Blitzcrank E",
+            "img": "https://cdn5.lolalytics.com/skill34/blitzcrank_e.webp"
+        },
+        "blitzcrank_r": {
+            "name": "Blitzcrank R",
+            "img": "https://cdn5.lolalytics.com/skill34/blitzcrank_r.webp"
+        },
+        "bard_p": {
+            "name": "Bard P",
+            "img": "https://cdn5.lolalytics.com/skill34/bard_p.webp"
+        },
+        "bard_q": {
+            "name": "Bard Q",
+            "img": "https://cdn5.lolalytics.com/skill34/bard_q.webp"
+        },
+        "bard_w": {
+            "name": "Bard W",
+            "img": "https://cdn5.lolalytics.com/skill34/bard_w.webp"
+        },
+        "bard_e": {
+            "name": "Bard E",
+            "img": "https://cdn5.lolalytics.com/skill34/bard_e.webp"
+        },
+        "bard_r": {
+            "name": "Bard R",
+            "img": "https://cdn5.lolalytics.com/skill34/bard_r.webp"
+        },
+        "azir_p": {
+            "name": "Azir P",
+            "img": "https://cdn5.lolalytics.com/skill34/azir_p.webp"
+        },
+        "azir_q": {
+            "name": "Azir Q",
+            "img": "https://cdn5.lolalytics.com/skill34/azir_q.webp"
+        },
+        "azir_w": {
+            "name": "Azir W",
+            "img": "https://cdn5.lolalytics.com/skill34/azir_w.webp"
+        },
+        "azir_e": {
+            "name": "Azir E",
+            "img": "https://cdn5.lolalytics.com/skill34/azir_e.webp"
+        },
+        "azir_r": {
+            "name": "Azir R",
+            "img": "https://cdn5.lolalytics.com/skill34/azir_r.webp"
+        },
+        "aurelionsol_p": {
+            "name": "Aurelion Sol P",
+            "img": "https://cdn5.lolalytics.com/skill34/aurelionsol_p.webp"
+        },
+        "aurelionsol_q": {
+            "name": "Aurelion Sol Q",
+            "img": "https://cdn5.lolalytics.com/skill34/aurelionsol_q.webp"
+        },
+        "aurelionsol_w": {
+            "name": "Aurelion Sol W",
+            "img": "https://cdn5.lolalytics.com/skill34/aurelionsol_w.webp"
+        },
+        "aurelionsol_e": {
+            "name": "Aurelion Sol E",
+            "img": "https://cdn5.lolalytics.com/skill34/aurelionsol_e.webp"
+        },
+        "aurelionsol_r": {
+            "name": "Aurelion Sol R",
+            "img": "https://cdn5.lolalytics.com/skill34/aurelionsol_r.webp"
+        },
+        "ashe_p": {
+            "name": "Ashe P",
+            "img": "https://cdn5.lolalytics.com/skill34/ashe_p.webp"
+        },
+        "ashe_q": {
+            "name": "Ashe Q",
+            "img": "https://cdn5.lolalytics.com/skill34/ashe_q.webp"
+        },
+        "ashe_w": {
+            "name": "Ashe W",
+            "img": "https://cdn5.lolalytics.com/skill34/ashe_w.webp"
+        },
+        "ashe_e": {
+            "name": "Ashe E",
+            "img": "https://cdn5.lolalytics.com/skill34/ashe_e.webp"
+        },
+        "ashe_r": {
+            "name": "Ashe R",
+            "img": "https://cdn5.lolalytics.com/skill34/ashe_r.webp"
+        },
+        "aphelios_p": {
+            "name": "Aphelios P",
+            "img": "https://cdn5.lolalytics.com/skill34/aphelios_p.webp"
+        },
+        "aphelios_q": {
+            "name": "Aphelios Q",
+            "img": "https://cdn5.lolalytics.com/skill34/aphelios_q.webp"
+        },
+        "aphelios_w": {
+            "name": "Aphelios W",
+            "img": "https://cdn5.lolalytics.com/skill34/aphelios_w.webp"
+        },
+        "aphelios_e": {
+            "name": "Aphelios E",
+            "img": "https://cdn5.lolalytics.com/skill34/aphelios_e.webp"
+        },
+        "aphelios_r": {
+            "name": "Aphelios R",
+            "img": "https://cdn5.lolalytics.com/skill34/aphelios_r.webp"
+        },
+        "annie_p": {
+            "name": "Annie P",
+            "img": "https://cdn5.lolalytics.com/skill34/annie_p.webp"
+        },
+        "annie_q": {
+            "name": "Annie Q",
+            "img": "https://cdn5.lolalytics.com/skill34/annie_q.webp"
+        },
+        "annie_w": {
+            "name": "Annie W",
+            "img": "https://cdn5.lolalytics.com/skill34/annie_w.webp"
+        },
+        "annie_e": {
+            "name": "Annie E",
+            "img": "https://cdn5.lolalytics.com/skill34/annie_e.webp"
+        },
+        "annie_r": {
+            "name": "Annie R",
+            "img": "https://cdn5.lolalytics.com/skill34/annie_r.webp"
+        },
+        "anivia_p": {
+            "name": "Anivia P",
+            "img": "https://cdn5.lolalytics.com/skill34/anivia_p.webp"
+        },
+        "anivia_q": {
+            "name": "Anivia Q",
+            "img": "https://cdn5.lolalytics.com/skill34/anivia_q.webp"
+        },
+        "anivia_w": {
+            "name": "Anivia W",
+            "img": "https://cdn5.lolalytics.com/skill34/anivia_w.webp"
+        },
+        "anivia_e": {
+            "name": "Anivia E",
+            "img": "https://cdn5.lolalytics.com/skill34/anivia_e.webp"
+        },
+        "anivia_r": {
+            "name": "Anivia R",
+            "img": "https://cdn5.lolalytics.com/skill34/anivia_r.webp"
+        },
+        "amumu_p": {
+            "name": "Amumu P",
+            "img": "https://cdn5.lolalytics.com/skill34/amumu_p.webp"
+        },
+        "amumu_q": {
+            "name": "Amumu Q",
+            "img": "https://cdn5.lolalytics.com/skill34/amumu_q.webp"
+        },
+        "amumu_w": {
+            "name": "Amumu W",
+            "img": "https://cdn5.lolalytics.com/skill34/amumu_w.webp"
+        },
+        "amumu_e": {
+            "name": "Amumu E",
+            "img": "https://cdn5.lolalytics.com/skill34/amumu_e.webp"
+        },
+        "amumu_r": {
+            "name": "Amumu R",
+            "img": "https://cdn5.lolalytics.com/skill34/amumu_r.webp"
+        },
+        "alistar_p": {
+            "name": "Alistar P",
+            "img": "https://cdn5.lolalytics.com/skill34/alistar_p.webp"
+        },
+        "alistar_q": {
+            "name": "Alistar Q",
+            "img": "https://cdn5.lolalytics.com/skill34/alistar_q.webp"
+        },
+        "alistar_w": {
+            "name": "Alistar W",
+            "img": "https://cdn5.lolalytics.com/skill34/alistar_w.webp"
+        },
+        "alistar_e": {
+            "name": "Alistar E",
+            "img": "https://cdn5.lolalytics.com/skill34/alistar_e.webp"
+        },
+        "alistar_r": {
+            "name": "Alistar R",
+            "img": "https://cdn5.lolalytics.com/skill34/alistar_r.webp"
+        },
+        "akali_p": {
+            "name": "Akali P",
+            "img": "https://cdn5.lolalytics.com/skill34/akali_p.webp"
+        },
+        "akali_q": {
+            "name": "Akali Q",
+            "img": "https://cdn5.lolalytics.com/skill34/akali_q.webp"
+        },
+        "akali_w": {
+            "name": "Akali W",
+            "img": "https://cdn5.lolalytics.com/skill34/akali_w.webp"
+        },
+        "akali_e": {
+            "name": "Akali E",
+            "img": "https://cdn5.lolalytics.com/skill34/akali_e.webp"
+        },
+        "akali_r": {
+            "name": "Akali R",
+            "img": "https://cdn5.lolalytics.com/skill34/akali_r.webp"
+        },
+        "ahri_p": {
+            "name": "Ahri P Skill",
+            "img": "https://cdn5.lolalytics.com/skill68/ahri_p.webp"
+        },
+        "ahri_q": {
+            "name": "Ahri Q Skill",
+            "img": "https://cdn5.lolalytics.com/skill68/ahri_q.webp"
+        },
+        "ahri_w": {
+            "name": "Ahri W Skill",
+            "img": "https://cdn5.lolalytics.com/skill68/ahri_w.webp"
+        },
+        "ahri_e": {
+            "name": "Ahri E Skill",
+            "img": "https://cdn5.lolalytics.com/skill68/ahri_e.webp"
+        },
+        "ahri_r": {
+            "name": "Ahri R Skill",
+            "img": "https://cdn5.lolalytics.com/skill68/ahri_r.webp"
+        },
+        "aatrox_p": {
+            "name": "Aatrox P",
+            "img": "https://cdn5.lolalytics.com/skill34/aatrox_p.webp"
+        },
+        "aatrox_q": {
+            "name": "Aatrox Q",
+            "img": "https://cdn5.lolalytics.com/skill34/aatrox_q.webp"
+        },
+        "aatrox_w": {
+            "name": "Aatrox W",
+            "img": "https://cdn5.lolalytics.com/skill34/aatrox_w.webp"
+        },
+        "aatrox_e": {
+            "name": "Aatrox E",
+            "img": "https://cdn5.lolalytics.com/skill34/aatrox_e.webp"
+        },
+        "aatrox_r": {
+            "name": "Aatrox R",
+            "img": "https://cdn5.lolalytics.com/skill34/aatrox_r.webp"
+        }
+    },
+    "spell": {
+        "4": {
+            "name": "Flash",
+            "img": "https://cdn5.lolalytics.com/spell64/4.webp"
+        },
+        "7": {
+            "name": "Heal",
+            "img": "https://cdn5.lolalytics.com/spell64/7.webp"
+        },
+        "14": {
+            "name": "Ignite",
+            "img": "https://cdn5.lolalytics.com/spell64/14.webp"
+        },
+        "3": {
+            "name": "Exhaust",
+            "img": "https://cdn5.lolalytics.com/spell64/3.webp"
+        },
+        "21": {
+            "name": "Barrier",
+            "img": "https://cdn5.lolalytics.com/spell64/21.webp"
+        },
+        "12": {
+            "name": "Teleport",
+            "img": "https://cdn5.lolalytics.com/spell64/12.webp"
+        },
+        "6": {
+            "name": "Ghost",
+            "img": "https://cdn5.lolalytics.com/spell64/6.webp"
+        },
+        "1": {
+            "name": "Cleanse",
+            "img": "https://cdn5.lolalytics.com/spell64/1.webp"
+        },
+        "11": {
+            "name": "Smite",
+            "img": "https://cdn5.lolalytics.com/spell64/11.webp"
+        }
+    },
+    "rune": {
+        "8214": {
+            "name": "Summon Aery",
+            "img": "https://cdn5.lolalytics.com/rune68/8214.webp"
+        },
+        "8229": {
+            "name": "Arcane Comet",
+            "img": "https://cdn5.lolalytics.com/rune68/8229.webp"
+        },
+        "8230": {
+            "name": "Phase Rush",
+            "img": "https://cdn5.lolalytics.com/rune68/8230.webp"
+        },
+        "8224": {
+            "name": "Nullifying Orb",
+            "img": "https://cdn5.lolalytics.com/rune68/8224.webp"
+        },
+        "8226": {
+            "name": "Manaflow Band",
+            "img": "https://cdn5.lolalytics.com/rune68/8226.webp"
+        },
+        "8275": {
+            "name": "Nimbus Cloak",
+            "img": "https://cdn5.lolalytics.com/rune68/8275.webp"
+        },
+        "8210": {
+            "name": "Transcendence",
+            "img": "https://cdn5.lolalytics.com/rune68/8210.webp"
+        },
+        "8234": {
+            "name": "Celerity",
+            "img": "https://cdn5.lolalytics.com/rune68/8234.webp"
+        },
+        "8233": {
+            "name": "Absolute Focus",
+            "img": "https://cdn5.lolalytics.com/rune68/8233.webp"
+        },
+        "8237": {
+            "name": "Scorch",
+            "img": "https://cdn5.lolalytics.com/rune68/8237.webp"
+        },
+        "8232": {
+            "name": "Waterwalking",
+            "img": "https://cdn5.lolalytics.com/rune68/8232.webp"
+        },
+        "8236": {
+            "name": "Gathering Storm",
+            "img": "https://cdn5.lolalytics.com/rune68/8236.webp"
+        },
+        "8126": {
+            "name": "Cheap Shot",
+            "img": "https://cdn5.lolalytics.com/rune68/8126.webp"
+        },
+        "8139": {
+            "name": "Taste of Blood",
+            "img": "https://cdn5.lolalytics.com/rune68/8139.webp"
+        },
+        "8143": {
+            "name": "Sudden Impact",
+            "img": "https://cdn5.lolalytics.com/rune68/8143.webp"
+        },
+        "8136": {
+            "name": "Zombie Ward",
+            "img": "https://cdn5.lolalytics.com/rune68/8136.webp"
+        },
+        "8120": {
+            "name": "Ghost Poro",
+            "img": "https://cdn5.lolalytics.com/rune68/8120.webp"
+        },
+        "8138": {
+            "name": "Eyeball Collection",
+            "img": "https://cdn5.lolalytics.com/rune68/8138.webp"
+        },
+        "8135": {
+            "name": "Treasure Hunter",
+            "img": "https://cdn5.lolalytics.com/rune68/8135.webp"
+        },
+        "8134": {
+            "name": "Ingenious Hunter",
+            "img": "https://cdn5.lolalytics.com/rune68/8134.webp"
+        },
+        "8105": {
+            "name": "Relentless Hunter",
+            "img": "https://cdn5.lolalytics.com/rune68/8105.webp"
+        },
+        "8106": {
+            "name": "Ultimate Hunter",
+            "img": "https://cdn5.lolalytics.com/rune68/8106.webp"
+        },
+        "8005": {
+            "name": "Press the Attack",
+            "img": "https://cdn5.lolalytics.com/rune68/8005.webp"
+        },
+        "8008": {
+            "name": "Lethal Tempo",
+            "img": "https://cdn5.lolalytics.com/rune68/8008.webp"
+        },
+        "8021": {
+            "name": "Fleet Footwork",
+            "img": "https://cdn5.lolalytics.com/rune68/8021.webp"
+        },
+        "8010": {
+            "name": "Conqueror",
+            "img": "https://cdn5.lolalytics.com/rune68/8010.webp"
+        },
+        "9101": {
+            "name": "Overheal",
+            "img": "https://cdn5.lolalytics.com/rune68/9101.webp"
+        },
+        "9111": {
+            "name": "Triumph",
+            "img": "https://cdn5.lolalytics.com/rune68/9111.webp"
+        },
+        "8009": {
+            "name": "Presence of Mind",
+            "img": "https://cdn5.lolalytics.com/rune68/8009.webp"
+        },
+        "9104": {
+            "name": "Legend: Alacrity",
+            "img": "https://cdn5.lolalytics.com/rune68/9104.webp"
+        },
+        "9105": {
+            "name": "Legend: Tenacity",
+            "img": "https://cdn5.lolalytics.com/rune68/9105.webp"
+        },
+        "9103": {
+            "name": "Legend: Bloodline",
+            "img": "https://cdn5.lolalytics.com/rune68/9103.webp"
+        },
+        "8014": {
+            "name": "Coup de Grace",
+            "img": "https://cdn5.lolalytics.com/rune68/8014.webp"
+        },
+        "8017": {
+            "name": "Cut Down",
+            "img": "https://cdn5.lolalytics.com/rune68/8017.webp"
+        },
+        "8299": {
+            "name": "Last Stand",
+            "img": "https://cdn5.lolalytics.com/rune68/8299.webp"
+        },
+        "8112": {
+            "name": "Electrocute",
+            "img": "https://cdn5.lolalytics.com/rune68/8112.webp"
+        },
+        "8124": {
+            "name": "Predator",
+            "img": "https://cdn5.lolalytics.com/rune68/8124.webp"
+        },
+        "8128": {
+            "name": "Dark Harvest",
+            "img": "https://cdn5.lolalytics.com/rune68/8128.webp"
+        },
+        "9923": {
+            "name": "Hail of Blades",
+            "img": "https://cdn5.lolalytics.com/rune68/9923.webp"
+        },
+        "8437": {
+            "name": "Grasp of the Undying",
+            "img": "https://cdn5.lolalytics.com/rune68/8437.webp"
+        },
+        "8439": {
+            "name": "Aftershock",
+            "img": "https://cdn5.lolalytics.com/rune68/8439.webp"
+        },
+        "8465": {
+            "name": "Guardian",
+            "img": "https://cdn5.lolalytics.com/rune68/8465.webp"
+        },
+        "8446": {
+            "name": "Demolish",
+            "img": "https://cdn5.lolalytics.com/rune68/8446.webp"
+        },
+        "8463": {
+            "name": "Font of Life",
+            "img": "https://cdn5.lolalytics.com/rune68/8463.webp"
+        },
+        "8401": {
+            "name": "Shield Bash",
+            "img": "https://cdn5.lolalytics.com/rune68/8401.webp"
+        },
+        "8429": {
+            "name": "Conditioning",
+            "img": "https://cdn5.lolalytics.com/rune68/8429.webp"
+        },
+        "8444": {
+            "name": "Second Wind",
+            "img": "https://cdn5.lolalytics.com/rune68/8444.webp"
+        },
+        "8473": {
+            "name": "Bone Plating",
+            "img": "https://cdn5.lolalytics.com/rune68/8473.webp"
+        },
+        "8451": {
+            "name": "Overgrowth",
+            "img": "https://cdn5.lolalytics.com/rune68/8451.webp"
+        },
+        "8453": {
+            "name": "Revitalize",
+            "img": "https://cdn5.lolalytics.com/rune68/8453.webp"
+        },
+        "8242": {
+            "name": "Unflinching",
+            "img": "https://cdn5.lolalytics.com/rune68/8242.webp"
+        },
+        "8351": {
+            "name": "Glacial Augment",
+            "img": "https://cdn5.lolalytics.com/rune68/8351.webp"
+        },
+        "8360": {
+            "name": "Unsealed Spellbook",
+            "img": "https://cdn5.lolalytics.com/rune68/8360.webp"
+        },
+        "8369": {
+            "name": "First Strike",
+            "img": "https://cdn5.lolalytics.com/rune68/8369.webp"
+        },
+        "8306": {
+            "name": "Hextech Flashtraption",
+            "img": "https://cdn5.lolalytics.com/rune68/8306.webp"
+        },
+        "8304": {
+            "name": "Magical Footwear",
+            "img": "https://cdn5.lolalytics.com/rune68/8304.webp"
+        },
+        "8313": {
+            "name": "Triple Tonic",
+            "img": "https://cdn5.lolalytics.com/rune68/8313.webp"
+        },
+        "8321": {
+            "name": "Future's Market",
+            "img": "https://cdn5.lolalytics.com/rune68/8321.webp"
+        },
+        "8316": {
+            "name": "Minion Dematerializer",
+            "img": "https://cdn5.lolalytics.com/rune68/8316.webp"
+        },
+        "8345": {
+            "name": "Biscuit Delivery",
+            "img": "https://cdn5.lolalytics.com/rune68/8345.webp"
+        },
+        "8347": {
+            "name": "Cosmic Insight",
+            "img": "https://cdn5.lolalytics.com/rune68/8347.webp"
+        },
+        "8410": {
+            "name": "Approach Velocity",
+            "img": "https://cdn5.lolalytics.com/rune68/8410.webp"
+        },
+        "8352": {
+            "name": "Time Warp Tonic",
+            "img": "https://cdn5.lolalytics.com/rune68/8352.webp"
+        }
+    },
+    "statmod": {
+        "5008": {
+            "name": "statmod",
+            "img": "https://cdn5.lolalytics.com/statmod32/5008.webp"
+        },
+        "5005": {
+            "name": "statmod",
+            "img": "https://cdn5.lolalytics.com/statmod32/5005.webp"
+        },
+        "5007": {
+            "name": "statmod",
+            "img": "https://cdn5.lolalytics.com/statmod32/5007.webp"
+        },
+        "5010": {
+            "name": "statmod",
+            "img": "https://cdn5.lolalytics.com/statmod32/5010.webp"
+        },
+        "5001": {
+            "name": "statmod",
+            "img": "https://cdn5.lolalytics.com/statmod32/5001.webp"
+        },
+        "5011": {
+            "name": "statmod",
+            "img": "https://cdn5.lolalytics.com/statmod32/5011.webp"
+        },
+        "5013": {
+            "name": "statmod",
+            "img": "https://cdn5.lolalytics.com/statmod32/5013.webp"
+        }
+    },
+    "item": {
+        "2003": {
+            "name": "Health Potion",
+            "img": "https://cdn5.lolalytics.com/item64/2003.webp"
+        },
+        "6653": {
+            "name": "Liandry's Torment",
+            "img": "https://cdn5.lolalytics.com/item64/6653.webp"
+        },
+        "3020": {
+            "name": "Sorcerer's Shoes",
+            "img": "https://cdn5.lolalytics.com/item64/3020.webp"
+        },
+        "3116": {
+            "name": "Rylai's Crystal Scepter",
+            "img": "https://cdn5.lolalytics.com/item64/3116.webp"
+        },
+        "3157": {
+            "name": "Zhonya's Hourglass",
+            "img": "https://cdn5.lolalytics.com/item64/3157.webp"
+        },
+        "3165": {
+            "name": "Morellonomicon",
+            "img": "https://cdn5.lolalytics.com/item64/3165.webp"
+        },
+        "2055": {
+            "name": "Control Ward",
+            "img": "https://cdn5.lolalytics.com/item64/2055.webp"
+        },
+        "1056": {
+            "name": "Doran's Ring",
+            "img": "https://cdn5.lolalytics.com/item64/1056.webp"
+        },
+        "1054": {
+            "name": "Doran's Shield",
+            "img": "https://cdn5.lolalytics.com/item64/1054.webp"
+        },
+        "1082": {
+            "name": "Dark Seal",
+            "img": "https://cdn5.lolalytics.com/item64/1082.webp"
+        },
+        "2031": {
+            "name": "Refillable Potion",
+            "img": "https://cdn5.lolalytics.com/item64/2031.webp"
+        },
+        "3070": {
+            "name": "Tear of the Goddess",
+            "img": "https://cdn5.lolalytics.com/item64/3070.webp"
+        },
+        "1001": {
+            "name": "Boots",
+            "img": "https://cdn5.lolalytics.com/item64/1001.webp"
+        },
+        "1052": {
+            "name": "Amplifying Tome",
+            "img": "https://cdn5.lolalytics.com/item64/1052.webp"
+        },
+        "3364": {
+            "name": "Oracle Lens",
+            "img": "https://cdn5.lolalytics.com/item64/3364.webp"
+        },
+        "1028": {
+            "name": "Ruby Crystal",
+            "img": "https://cdn5.lolalytics.com/item64/1028.webp"
+        },
+        "1026": {
+            "name": "Blasting Wand",
+            "img": "https://cdn5.lolalytics.com/item64/1026.webp"
+        },
+        "1011": {
+            "name": "Giant's Belt",
+            "img": "https://cdn5.lolalytics.com/item64/1011.webp"
+        },
+        "3802": {
+            "name": "Lost Chapter",
+            "img": "https://cdn5.lolalytics.com/item64/3802.webp"
+        },
+        "3158": {
+            "name": "Ionian Boots of Lucidity",
+            "img": "https://cdn5.lolalytics.com/item64/3158.webp"
+        },
+        "3916": {
+            "name": "Oblivion Orb",
+            "img": "https://cdn5.lolalytics.com/item64/3916.webp"
+        },
+        "1027": {
+            "name": "Sapphire Crystal",
+            "img": "https://cdn5.lolalytics.com/item64/1027.webp"
+        },
+        "3108": {
+            "name": "Fiendish Codex",
+            "img": "https://cdn5.lolalytics.com/item64/3108.webp"
+        },
+        "6655": {
+            "name": "Luden's Companion",
+            "img": "https://cdn5.lolalytics.com/item64/6655.webp"
+        },
+        "3135": {
+            "name": "Void Staff",
+            "img": "https://cdn5.lolalytics.com/item64/3135.webp"
+        },
+        "3102": {
+            "name": "Banshee's Veil",
+            "img": "https://cdn5.lolalytics.com/item64/3102.webp"
+        },
+        "4005": {
+            "name": "Imperial Mandate",
+            "img": "https://cdn5.lolalytics.com/item64/4005.webp"
+        },
+        "3089": {
+            "name": "Rabadon's Deathcap",
+            "img": "https://cdn5.lolalytics.com/item64/3089.webp"
+        },
+        "3041": {
+            "name": "Mejai's Soulstealer",
+            "img": "https://cdn5.lolalytics.com/item64/3041.webp"
+        },
+        "4633": {
+            "name": "Riftmaker",
+            "img": "https://cdn5.lolalytics.com/item64/4633.webp"
+        },
+        "3003": {
+            "name": "Archangel's Staff",
+            "img": "https://cdn5.lolalytics.com/item64/3003.webp"
+        },
+        "4643": {
+            "name": "Vigilant Wardstone",
+            "img": "https://cdn5.lolalytics.com/item64/4643.webp"
+        },
+        "6657": {
+            "name": "Rod of Ages",
+            "img": "https://cdn5.lolalytics.com/item64/6657.webp"
+        },
+        "4628": {
+            "name": "Horizon Focus",
+            "img": "https://cdn5.lolalytics.com/item64/4628.webp"
+        },
+        "3190": {
+            "name": "Locket of the Iron Solari",
+            "img": "https://cdn5.lolalytics.com/item64/3190.webp"
+        },
+        "3009": {
+            "name": "Boots of Swiftness",
+            "img": "https://cdn5.lolalytics.com/item64/3009.webp"
+        },
+        "3111": {
+            "name": "Mercury's Treads",
+            "img": "https://cdn5.lolalytics.com/item64/3111.webp"
+        },
+        "3047": {
+            "name": "Plated Steelcaps",
+            "img": "https://cdn5.lolalytics.com/item64/3047.webp"
+        },
+        "3117": {
+            "name": "Mobility Boots",
+            "img": "https://cdn5.lolalytics.com/item64/3117.webp"
+        },
+        "2422": {
+            "name": "Slightly Magical Footwear",
+            "img": "https://cdn5.lolalytics.com/item64/2422.webp"
+        },
+        "3006": {
+            "name": "Berserker's Greaves",
+            "img": "https://cdn5.lolalytics.com/item64/3006.webp"
+        },
+        "4629": {
+            "name": "Cosmic Drive",
+            "img": "https://cdn5.lolalytics.com/item64/4629.webp"
+        },
+        "3340": {
+            "name": "Stealth Ward",
+            "img": "https://cdn5.lolalytics.com/item64/3340.webp"
+        },
+        "3100": {
+            "name": "Lich Bane",
+            "img": "https://cdn5.lolalytics.com/item64/3100.webp"
+        },
+        "2033": {
+            "name": "Corrupting Potion",
+            "img": "https://cdn5.lolalytics.com/item64/2033.webp"
+        },
+        "1055": {
+            "name": "Doran's Blade",
+            "img": "https://cdn5.lolalytics.com/item64/1055.webp"
+        },
+        "1083": {
+            "name": "Cull",
+            "img": "https://cdn5.lolalytics.com/item64/1083.webp"
+        },
+        "1036": {
+            "name": "Long Sword",
+            "img": "https://cdn5.lolalytics.com/item64/1036.webp"
+        },
+        "3145": {
+            "name": "Hextech Alternator",
+            "img": "https://cdn5.lolalytics.com/item64/3145.webp"
+        },
+        "3113": {
+            "name": "Aether Wisp",
+            "img": "https://cdn5.lolalytics.com/item64/3113.webp"
+        },
+        "3057": {
+            "name": "Sheen",
+            "img": "https://cdn5.lolalytics.com/item64/3057.webp"
+        },
+        "1058": {
+            "name": "Needlessly Large Rod",
+            "img": "https://cdn5.lolalytics.com/item64/1058.webp"
+        },
+        "3152": {
+            "name": "Hextech Rocketbelt",
+            "img": "https://cdn5.lolalytics.com/item64/3152.webp"
+        },
+        "3087": {
+            "name": "Statikk Shiv",
+            "img": "https://cdn5.lolalytics.com/item64/3087.webp"
+        },
+        "3115": {
+            "name": "Nashor's Tooth",
+            "img": "https://cdn5.lolalytics.com/item64/3115.webp"
+        },
+        "3110": {
+            "name": "Frozen Heart",
+            "img": "https://cdn5.lolalytics.com/item64/3110.webp"
+        },
+        "3139": {
+            "name": "Mercurial Scimitar",
+            "img": "https://cdn5.lolalytics.com/item64/3139.webp"
+        },
+        "4401": {
+            "name": "Force of Nature",
+            "img": "https://cdn5.lolalytics.com/item64/4401.webp"
+        },
+        "3363": {
+            "name": "Farsight Alteration",
+            "img": "https://cdn5.lolalytics.com/item64/3363.webp"
+        },
+        "2065": {
+            "name": "Shurelya's Battlesong",
+            "img": "https://cdn5.lolalytics.com/item64/2065.webp"
+        },
+        "1101": {
+            "name": "Scorchclaw Pup",
+            "img": "https://cdn5.lolalytics.com/item64/1101.webp"
+        },
+        "4642": {
+            "name": "Bandleglass Mirror",
+            "img": "https://cdn5.lolalytics.com/item64/4642.webp"
+        },
+        "1004": {
+            "name": "Faerie Charm",
+            "img": "https://cdn5.lolalytics.com/item64/1004.webp"
+        },
+        "1029": {
+            "name": "Cloth Armor",
+            "img": "https://cdn5.lolalytics.com/item64/1029.webp"
+        },
+        "3107": {
+            "name": "Redemption",
+            "img": "https://cdn5.lolalytics.com/item64/3107.webp"
+        },
+        "3222": {
+            "name": "Mikael's Blessing",
+            "img": "https://cdn5.lolalytics.com/item64/3222.webp"
+        },
+        "3083": {
+            "name": "Warmog's Armor",
+            "img": "https://cdn5.lolalytics.com/item64/3083.webp"
+        },
+        "3109": {
+            "name": "Knight's Vow",
+            "img": "https://cdn5.lolalytics.com/item64/3109.webp"
+        },
+        "6616": {
+            "name": "Staff of Flowing Water",
+            "img": "https://cdn5.lolalytics.com/item64/6616.webp"
+        },
+        "3504": {
+            "name": "Ardent Censer",
+            "img": "https://cdn5.lolalytics.com/item64/3504.webp"
+        },
+        "3742": {
+            "name": "Dead Man's Plate",
+            "img": "https://cdn5.lolalytics.com/item64/3742.webp"
+        },
+        "6617": {
+            "name": "Moonstone Renewer",
+            "img": "https://cdn5.lolalytics.com/item64/6617.webp"
+        },
+        "3067": {
+            "name": "Kindlegem",
+            "img": "https://cdn5.lolalytics.com/item64/3067.webp"
+        },
+        "3142": {
+            "name": "Youmuu's Ghostblade",
+            "img": "https://cdn5.lolalytics.com/item64/3142.webp"
+        },
+        "3814": {
+            "name": "Edge of Night",
+            "img": "https://cdn5.lolalytics.com/item64/3814.webp"
+        },
+        "6694": {
+            "name": "Serylda's Grudge",
+            "img": "https://cdn5.lolalytics.com/item64/6694.webp"
+        },
+        "3026": {
+            "name": "Guardian Angel",
+            "img": "https://cdn5.lolalytics.com/item64/3026.webp"
+        },
+        "1037": {
+            "name": "Pickaxe",
+            "img": "https://cdn5.lolalytics.com/item64/1037.webp"
+        },
+        "2015": {
+            "name": "Kircheis Shard",
+            "img": "https://cdn5.lolalytics.com/item64/2015.webp"
+        },
+        "3134": {
+            "name": "Serrated Dirk",
+            "img": "https://cdn5.lolalytics.com/item64/3134.webp"
+        },
+        "3077": {
+            "name": "Tiamat",
+            "img": "https://cdn5.lolalytics.com/item64/3077.webp"
+        },
+        "3133": {
+            "name": "Caulfield's Warhammer",
+            "img": "https://cdn5.lolalytics.com/item64/3133.webp"
+        },
+        "3156": {
+            "name": "Maw of Malmortius",
+            "img": "https://cdn5.lolalytics.com/item64/3156.webp"
+        },
+        "6692": {
+            "name": "Eclipse",
+            "img": "https://cdn5.lolalytics.com/item64/6692.webp"
+        },
+        "6695": {
+            "name": "Serpent's Fang",
+            "img": "https://cdn5.lolalytics.com/item64/6695.webp"
+        },
+        "6676": {
+            "name": "The Collector",
+            "img": "https://cdn5.lolalytics.com/item64/6676.webp"
+        },
+        "3074": {
+            "name": "Ravenous Hydra",
+            "img": "https://cdn5.lolalytics.com/item64/3074.webp"
+        },
+        "3071": {
+            "name": "Black Cleaver",
+            "img": "https://cdn5.lolalytics.com/item64/3071.webp"
+        },
+        "6609": {
+            "name": "Chempunk Chainsword",
+            "img": "https://cdn5.lolalytics.com/item64/6609.webp"
+        },
+        "3036": {
+            "name": "Lord Dominik's Regards",
+            "img": "https://cdn5.lolalytics.com/item64/3036.webp"
+        },
+        "3033": {
+            "name": "Mortal Reminder",
+            "img": "https://cdn5.lolalytics.com/item64/3033.webp"
+        },
+        "6333": {
+            "name": "Death's Dance",
+            "img": "https://cdn5.lolalytics.com/item64/6333.webp"
+        },
+        "3179": {
+            "name": "Umbral Glaive",
+            "img": "https://cdn5.lolalytics.com/item64/3179.webp"
+        },
+        "3035": {
+            "name": "Last Whisper",
+            "img": "https://cdn5.lolalytics.com/item64/3035.webp"
+        },
+        "1103": {
+            "name": "Mosstomper Seedling",
+            "img": "https://cdn5.lolalytics.com/item64/1103.webp"
+        },
+        "3068": {
+            "name": "Sunfire Aegis",
+            "img": "https://cdn5.lolalytics.com/item64/3068.webp"
+        },
+        "3075": {
+            "name": "Thornmail",
+            "img": "https://cdn5.lolalytics.com/item64/3075.webp"
+        },
+        "6665": {
+            "name": "Jak'Sho, The Protean",
+            "img": "https://cdn5.lolalytics.com/item64/6665.webp"
+        },
+        "3065": {
+            "name": "Spirit Visage",
+            "img": "https://cdn5.lolalytics.com/item64/3065.webp"
+        },
+        "1102": {
+            "name": "Gustwalker Hatchling",
+            "img": "https://cdn5.lolalytics.com/item64/1102.webp"
+        },
+        "6660": {
+            "name": "Bami's Cinder",
+            "img": "https://cdn5.lolalytics.com/item64/6660.webp"
+        },
+        "1031": {
+            "name": "Chain Vest",
+            "img": "https://cdn5.lolalytics.com/item64/1031.webp"
+        },
+        "1033": {
+            "name": "Null-Magic Mantle",
+            "img": "https://cdn5.lolalytics.com/item64/1033.webp"
+        },
+        "3076": {
+            "name": "Bramble Vest",
+            "img": "https://cdn5.lolalytics.com/item64/3076.webp"
+        },
+        "3143": {
+            "name": "Randuin's Omen",
+            "img": "https://cdn5.lolalytics.com/item64/3143.webp"
+        },
+        "6664": {
+            "name": "Turbo Chemtank",
+            "img": "https://cdn5.lolalytics.com/item64/6664.webp"
+        },
+        "6662": {
+            "name": "Iceborn Gauntlet",
+            "img": "https://cdn5.lolalytics.com/item64/6662.webp"
+        },
+        "3084": {
+            "name": "Heartsteel",
+            "img": "https://cdn5.lolalytics.com/item64/3084.webp"
+        },
+        "3050": {
+            "name": "Zeke's Convergence",
+            "img": "https://cdn5.lolalytics.com/item64/3050.webp"
+        },
+        "3211": {
+            "name": "Spectre's Cowl",
+            "img": "https://cdn5.lolalytics.com/item64/3211.webp"
+        },
+        "3114": {
+            "name": "Forbidden Idol",
+            "img": "https://cdn5.lolalytics.com/item64/3114.webp"
+        },
+        "3053": {
+            "name": "Sterak's Gage",
+            "img": "https://cdn5.lolalytics.com/item64/3053.webp"
+        },
+        "1006": {
+            "name": "Rejuvenation Bead",
+            "img": "https://cdn5.lolalytics.com/item64/1006.webp"
+        },
+        "3044": {
+            "name": "Phage",
+            "img": "https://cdn5.lolalytics.com/item64/3044.webp"
+        },
+        "1042": {
+            "name": "Dagger",
+            "img": "https://cdn5.lolalytics.com/item64/1042.webp"
+        },
+        "3181": {
+            "name": "Sanguine Blade",
+            "img": "https://cdn5.lolalytics.com/item64/3181.webp"
+        },
+        "3078": {
+            "name": "Trinity Force",
+            "img": "https://cdn5.lolalytics.com/item64/3078.webp"
+        },
+        "3748": {
+            "name": "Titanic Hydra",
+            "img": "https://cdn5.lolalytics.com/item64/3748.webp"
+        },
+        "3004": {
+            "name": "Manamune",
+            "img": "https://cdn5.lolalytics.com/item64/3004.webp"
+        },
+        "6631": {
+            "name": "Stridebreaker",
+            "img": "https://cdn5.lolalytics.com/item64/6631.webp"
+        },
+        "3153": {
+            "name": "Blade of The Ruined King",
+            "img": "https://cdn5.lolalytics.com/item64/3153.webp"
+        },
+        "3031": {
+            "name": "Infinity Edge",
+            "img": "https://cdn5.lolalytics.com/item64/3031.webp"
+        },
+        "3072": {
+            "name": "Bloodthirster",
+            "img": "https://cdn5.lolalytics.com/item64/3072.webp"
+        },
+        "6673": {
+            "name": "Immortal Shieldbow",
+            "img": "https://cdn5.lolalytics.com/item64/6673.webp"
+        },
+        "1043": {
+            "name": "Recurve Bow",
+            "img": "https://cdn5.lolalytics.com/item64/1043.webp"
+        },
+        "1053": {
+            "name": "Vampiric Scepter",
+            "img": "https://cdn5.lolalytics.com/item64/1053.webp"
+        },
+        "6670": {
+            "name": "Noonquiver",
+            "img": "https://cdn5.lolalytics.com/item64/6670.webp"
+        },
+        "1018": {
+            "name": "Cloak of Agility",
+            "img": "https://cdn5.lolalytics.com/item64/1018.webp"
+        },
+        "3123": {
+            "name": "Executioner's Calling",
+            "img": "https://cdn5.lolalytics.com/item64/3123.webp"
+        },
+        "6672": {
+            "name": "Kraken Slayer",
+            "img": "https://cdn5.lolalytics.com/item64/6672.webp"
+        },
+        "3091": {
+            "name": "Wit's End",
+            "img": "https://cdn5.lolalytics.com/item64/3091.webp"
+        },
+        "3046": {
+            "name": "Phantom Dancer",
+            "img": "https://cdn5.lolalytics.com/item64/3046.webp"
+        },
+        "6675": {
+            "name": "Navori Quickblades",
+            "img": "https://cdn5.lolalytics.com/item64/6675.webp"
+        },
+        "3095": {
+            "name": "Stormrazor",
+            "img": "https://cdn5.lolalytics.com/item64/3095.webp"
+        },
+        "1038": {
+            "name": "B. F. Sword",
+            "img": "https://cdn5.lolalytics.com/item64/1038.webp"
+        },
+        "3086": {
+            "name": "Zeal",
+            "img": "https://cdn5.lolalytics.com/item64/3086.webp"
+        },
+        "1057": {
+            "name": "Negatron Cloak",
+            "img": "https://cdn5.lolalytics.com/item64/1057.webp"
+        },
+        "3508": {
+            "name": "Essence Reaver",
+            "img": "https://cdn5.lolalytics.com/item64/3508.webp"
+        },
+        "3094": {
+            "name": "Rapid Firecannon",
+            "img": "https://cdn5.lolalytics.com/item64/3094.webp"
+        },
+        "3085": {
+            "name": "Runaan's Hurricane",
+            "img": "https://cdn5.lolalytics.com/item64/3085.webp"
+        },
+        "3051": {
+            "name": "Hearthbound Axe",
+            "img": "https://cdn5.lolalytics.com/item64/3051.webp"
+        },
+        "3124": {
+            "name": "Guinsoo's Rageblade",
+            "img": "https://cdn5.lolalytics.com/item64/3124.webp"
+        },
+        "2420": {
+            "name": "Seeker's Armguard",
+            "img": "https://cdn5.lolalytics.com/item64/2420.webp"
+        },
+        "3803": {
+            "name": "Catalyst of Aeons",
+            "img": "https://cdn5.lolalytics.com/item64/3803.webp"
+        },
+        "3082": {
+            "name": "Warden's Mail",
+            "img": "https://cdn5.lolalytics.com/item64/3082.webp"
+        },
+        "3066": {
+            "name": "Winged Moonplate",
+            "img": "https://cdn5.lolalytics.com/item64/3066.webp"
+        },
+        "3024": {
+            "name": "Glacial Buckler",
+            "img": "https://cdn5.lolalytics.com/item64/3024.webp"
+        },
+        "3801": {
+            "name": "Crystalline Bracer",
+            "img": "https://cdn5.lolalytics.com/item64/3801.webp"
+        },
+        "4630": {
+            "name": "Blighting Jewel",
+            "img": "https://cdn5.lolalytics.com/item64/4630.webp"
+        },
+        "3600": {
+            "name": "Kalista's Black Spear",
+            "img": "https://cdn5.lolalytics.com/item64/3600.webp"
+        },
+        "3155": {
+            "name": "Hexdrinker",
+            "img": "https://cdn5.lolalytics.com/item64/3155.webp"
+        },
+        "4646": {
+            "name": "Stormsurge",
+            "img": "https://cdn5.lolalytics.com/item64/4646.webp"
+        },
+        "3137": {
+            "name": "Cryptbloom",
+            "img": "https://cdn5.lolalytics.com/item64/3137.webp"
+        },
+        "2022": {
+            "name": "Glowing Mote",
+            "img": "https://cdn5.lolalytics.com/item64/2022.webp"
+        },
+        "3118": {
+            "name": "Malignance",
+            "img": "https://cdn5.lolalytics.com/item64/3118.webp"
+        },
+        "3147": {
+            "name": "Haunting Guise",
+            "img": "https://cdn5.lolalytics.com/item64/3147.webp"
+        },
+        "4645": {
+            "name": "Shadowflame",
+            "img": "https://cdn5.lolalytics.com/item64/4645.webp"
+        },
+        "2504": {
+            "name": "Kaenic Rookern",
+            "img": "https://cdn5.lolalytics.com/item64/2504.webp"
+        }
+    }
+}
